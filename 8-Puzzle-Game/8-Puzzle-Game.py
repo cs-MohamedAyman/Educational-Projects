@@ -2,7 +2,7 @@ import random
 N = 3
 grid = []
 
-#This function prints the grid of 2048 Game as the game progresses
+#This function prints the grid of 8 Puzzle Game as the game progresses
 def print_grid():
     print('-' * (N * N + N + 1))
     for i in range(N):
