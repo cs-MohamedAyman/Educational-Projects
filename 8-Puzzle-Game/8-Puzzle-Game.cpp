@@ -42,18 +42,7 @@ void generate_grid() {
 		grid[a][b] = i;
 	}
 }
-//This function rotates the grid by 90 degree anti-clockwise
-void rotate_90() {
-	for (int i = 0; i < N/2; i++) {
-		for (int j = i; j < N-i-1; j++) {
-            int k              = grid[i][j];
-            grid[i][j]         = grid[N-j-1][i];
-            grid[N-j-1][i]     = grid[N-i-1][N-j-1];
-            grid[N-i-1][N-j-1] = grid[j][N-i-1];
-            grid[j][N-i-1]     = k;
-		}
-	}
-}
+
 //This function checks if the game state reachs the win state or not 
 bool check_win() {
     int idx = 1;
@@ -66,60 +55,31 @@ bool check_win() {
 	}
     return true;
 }
-//This function checks if the current right direction has a movement state or not
-bool check_available_direction() {
-	for (int i = 0; i < N; i++) {
-        int j = 0;
-        while (j < N && grid[i][j] == 0) j +=1;
-        while (j < N && grid[i][j] != 0) j +=1;
-        if (j < N) return true;
-	}
-    return false;
+//This function checks if given cell is empty or not 
+bool check_empty(int i, int j) {
+	return grid[i][j] == 0;
 }
-//This function checks if the given direction has a movement state or not
-bool check_available_move(int d) {
-    bool res = false;
-    //check direction right
-    if (d == 3) res = check_available_direction();
-    rotate_90();
-    //check direction down
-    if (d == 5) res = check_available_direction();
-    rotate_90();
-    //check direction left
-    if (d == 1) res = check_available_direction();
-    rotate_90();
-    //check direction up
-    if (d == 2) res = check_available_direction();
-    rotate_90();
-    return res;
+//This function checks if given position is valid or not 
+bool check_valid_position(int i, int j) {
+	return 0 <= i && i < N && 0 <= j && j < N;
 }
-//This function moves the grid with the left direction 
-void move() {
-	for (int i = 0; i < N; i++)
-		for (int j = 1; j < N; j++)
-            if (grid[i][j] != 0 && grid[i][j-1] == 0) {
-				swap(grid[i][j], grid[i][j-1]);
-				return;
-			}
+//This function checks if the given position has a movement state or not
+bool check_available_move(int i, int j) {
+    return (check_valid_position(i-1, j) && check_empty(i-1, j)) ||
+           (check_valid_position(i+1, j) && check_empty(i+1, j)) ||
+           (check_valid_position(i, j-1) && check_empty(i, j-1)) ||
+           (check_valid_position(i, j+1) && check_empty(i, j+1));
 }
-//This function moves the grid with the given direction 
-void move_direction(int d) {
-    //move direction left
-    if (d == 1) move();
-    rotate_90();
-    //move direction up
-    if (d == 2) move();
-    rotate_90();
-    //move direction right
-    if (d == 3) move();
-    rotate_90();
-    //move direction down
-    if (d == 5) move();
-    rotate_90();
-}
-//This function checks if the given direction is valid or not 
-bool check_valid_direction(int i) {
-	return i == 1 || i == 2 || i == 3 || i == 5;
+//This function moves the position with the empty cell
+void move(int i, int j) {
+    if (check_valid_position(i-1, j) && check_empty(i-1, j))
+        swap(grid[i][j], grid[i-1][j]);
+    else if (check_valid_position(i+1, j) && check_empty(i+1, j))
+        swap(grid[i][j], grid[i+1][j]);
+    else if (check_valid_position(i, j-1) && check_empty(i, j-1))
+        swap(grid[i][j], grid[i][j-1]);
+    else if (check_valid_position(i, j+1) && check_empty(i, j+1))
+        swap(grid[i][j], grid[i][j+1]);
 }
 //This function clears the game structures
 void grid_clear() {
@@ -128,12 +88,12 @@ void grid_clear() {
 			grid[i][j] = 0;
 }
 //This function reads a valid direction
-void read_input(int &i) {
-    cout << "Enter the direction: ";
-	cin >> i;
-    while (!check_valid_direction(i) || !check_available_move(i)) {
-        cout << "Enter a valid direction: ";
-		cin >> i;
+void read_input(int &i, int &j) {
+    cout << "Enter the row index and column index: ";
+	cin >> i >> j;
+    while (!check_valid_position(i, j) || check_empty(i, j) || !check_available_move(i, j)) {
+        cout << "Enter a valid row index and a valid column index: ";
+		cin >> i >> j;
 	}
 }
 //MAIN FUNCTION
@@ -145,10 +105,10 @@ void play_game() {
         //Prints the grid
         print_grid();
         //Read an input from the player
-		int i;
-		read_input(i);
-        //Move with the input direction
-        move_direction(i);
+		int i, j;
+		read_input(i, j);
+        //Move with the input position
+        move(i, j);
         //Check if the grid has a win state
         if (check_win()) {
             //Prints the grid
