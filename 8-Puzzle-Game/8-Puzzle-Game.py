@@ -29,16 +29,6 @@ def generate_grid():
             b = random.randint(0, N-1)
         grid[a][b] = i
 
-#This function rotates the grid by 90 degree anti-clockwise
-def rotate_90():
-    for i in range(N//2):
-        for j in range(i, N-i-1):
-            k                  = grid[i][j]
-            grid[i][j]         = grid[N-j-1][i]
-            grid[N-j-1][i]     = grid[N-i-1][N-j-1]
-            grid[N-i-1][N-j-1] = grid[j][N-i-1]
-            grid[j][N-i-1]     = k
-
 #This function checks if the game state reachs the win state or not 
 def check_win():
     idx = 1
@@ -49,73 +39,43 @@ def check_win():
             idx += 1
     return True
 
-#This function checks if the current right direction has a movement state or not
-def check_available_direction():
-    for i in range(N):
-        j = 0
-        while j < N and grid[i][j] == 0: 
-            j +=1
-        while j < N and grid[i][j] != 0: 
-            j +=1
-        if j < N:
-            return True
-    return False
+#This function checks if given cell is empty or not 
+def check_empty(i, j):
+	return grid[i][j] == 0
 
-#This function checks if the given direction has a movement state or not
-def check_available_move(d):
-    res = False
-    #check direction right
-    if d == 3: res = check_available_direction()
-    rotate_90()
-    #check direction down
-    if d == 5: res = check_available_direction()
-    rotate_90()
-    #check direction left
-    if d == 1: res = check_available_direction()
-    rotate_90()
-    #check direction up
-    if d == 2: res = check_available_direction()
-    rotate_90()
-    return res
+#This function checks if given position is valid or not 
+def check_valid_position(i, j):
+	return 0 <= i < N and 0 <= j < N
 
-#This function moves the grid with the left direction 
-def move():
-    for i in range(N):
-        for j in range(1, N):
-            if grid[i][j] != 0 and grid[i][j-1] == 0:
-                grid[i][j], grid[i][j-1] = grid[i][j-1], grid[i][j]
-                return
+#This function checks if the given position has a movement state or not
+def check_available_move(i, j):
+    return (check_valid_position(i-1, j) and check_empty(i-1, j)) or \
+           (check_valid_position(i+1, j) and check_empty(i+1, j)) or \
+           (check_valid_position(i, j-1) and check_empty(i, j-1)) or \
+           (check_valid_position(i, j+1) and check_empty(i, j+1))
 
-#This function moves the grid with the given direction 
-def move_direction(d):
-    #move direction left
-    if d == 1: move()
-    rotate_90()
-    #move direction up
-    if d == 2: move()
-    rotate_90()
-    #move direction right
-    if d == 3: move()
-    rotate_90()
-    #move direction down
-    if d == 5: move()
-    rotate_90()
-
-#This function checks if the given direction is valid or not 
-def check_valid_direction(i):
-	return i in [1, 2, 3, 5]
+#This function moves the position with the empty cell
+def move(i, j):
+    if check_valid_position(i-1, j) and check_empty(i-1, j): 
+        grid[i][j], grid[i-1][j] = grid[i-1][j], grid[i][j]
+    elif check_valid_position(i+1, j) and check_empty(i+1, j): 
+        grid[i][j], grid[i+1][j] = grid[i+1][j], grid[i][j]
+    elif check_valid_position(i, j-1) and check_empty(i, j-1): 
+        grid[i][j], grid[i][j-1] = grid[i][j-1], grid[i][j]
+    elif check_valid_position(i, j+1) and check_empty(i, j+1): 
+        grid[i][j], grid[i][j+1] = grid[i][j+1], grid[i][j]
 
 #This function clears the game structures
 def grid_clear():
 	global grid
 	grid = [[0] * N for i in range(N)]
 
-#This function reads a valid direction
+#This function reads a valid position
 def read_input():
-    i = int(input('Enter the direction: '))
-    while not check_valid_direction(i) or not check_available_move(i):
-        i = int(input('Enter a valid direction: '))
-    return i
+    i, j = map(int, input('Enter the row index and column index: ').split())
+    while not check_valid_position(i, j) or check_empty(i, j) or not check_available_move(i, j):
+        i, j = map(int, input('Enter a valid row index and a valid column index: ').split())
+    return i, j
 
 
 #MAIN FUNCTION
@@ -127,9 +87,9 @@ def play_game():
         #Prints the grid
         print_grid()
         #Read an input from the player
-        i = read_input()
-        #Move with the input direction
-        move_direction(i)
+        i, j = read_input()
+        #Move with the input position
+        move(i, j)
         #Check if the grid has a win state
         if check_win():
             #Prints the grid
