@@ -6,7 +6,7 @@ const int M = 4;
 int grid[N][M];
 bool viewed_grid[N][M];
 
-//This function prints the grid of Remembery Game as the game progresses
+//This function prints the grid of Match Cards Game as the game progresses
 void print_grid() {
 	for (int i = 0; i < (4 * M + M + 1); cout << "-", i++);
 	cout << "\n";
@@ -97,7 +97,7 @@ void read_input(int &i1, int &j1, int &i2, int &j2) {
 }
 //MAIN FUNCTION
 void play_game() {
-    cout << "Remembery Game!\n";
+    cout << "Match Cards Game!\n";
     cout << "Welcome...\n";
     cout << "============================\n";
     while (true) {
