@@ -95,12 +95,12 @@ def flip_flag(i, j):
 
 #This function showes the given cell
 def show_cell(i, j):
-    viewed_grid[i][j]= 1
+    viewed_grid[i][j] = 1
     if grid[i][j] != 0:
         return
     dirs = [(1, 1), (-1, -1), (1, -1), (-1, 1), (1, 0), (0, 1), (-1, 0), (0, -1)]
     for di, dj in dirs:
-        if check_valid_position(i+di, j+dj) and viewed_grid[i+di][j+dj] == 0:
+        if check_valid_position(i+di, j+dj) and check_hide_cell(i+di, j+dj):
             show_cell(i+di, j+dj)
 
 #This function showes all mines cells
