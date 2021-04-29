@@ -2,7 +2,7 @@ import random
 N, M = 4, 4
 viewed_grid, grid = [], []
 
-#This function prints the grid of Remembery Game as the game progresses
+#This function prints the grid of Match Cards Game as the game progresses
 def print_grid():
     print('-' * (4 * M + M + 1))
     for i in range(N):
@@ -78,7 +78,7 @@ def read_input():
 
 #MAIN FUNCTION
 def play_game():
-    print("Remembery Game!")
+    print("Match Cards Game!")
     print("Welcome...")
     print("============================")
     while True:
