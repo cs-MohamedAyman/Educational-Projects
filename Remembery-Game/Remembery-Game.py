@@ -101,8 +101,6 @@ def play_game():
             print('The selected cells are the same')
         #Check if the grid has a win state
         if check_win():
-            #Prints the grid
-            print_grid()
             #Announcement of the final statement
             print('Congrats, You won!')
             break
