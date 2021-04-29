@@ -2,22 +2,21 @@ import random
 N, M = 4, 4
 viewed_grid, grid = [], []
 
-#This function prints the grid of 8 Puzzle Game as the game progresses
+#This function prints the grid of Remembery Game as the game progresses
 def print_grid():
-    print('-' * (N * M + M + 1))
+    print('-' * (4 * M + M + 1))
     for i in range(N):
         print(end='|')
-        for j in range(N):
+        for j in range(M):
             if viewed_grid[i][j] == 0:
-                e = '..'.center(N)
+                e = '    '
             else:
-                str_len = len(str(grid[i][j]))
-                r1 = (N - str_len + 1) // 2
-                r2 = (N - str_len) - r1
-                e = (' ' * r1) + str(grid[i][j]) + (' ' * r2)
+                e = str(grid[i][j])
+                if len(e) == 1: e = ' ' + e
+                e = ' ' + e + ' '
             print(e, end='|')
         print()
-        print('-' * (N * M + M + 1))
+        print('-' * (4 * M + M + 1))
 
 #This function checks if the game state reachs the win state or not 
 def check_win():
