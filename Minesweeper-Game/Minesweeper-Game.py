@@ -41,7 +41,7 @@ def check_valid_position(i, j):
 def calc_neighbour_mines():
     dirs = [(1, 1), (-1, -1), (1, -1), (-1, 1), (1, 0), (0, 1), (-1, 0), (0, -1)]
     for i in range(N):
-        for j in range(N):
+        for j in range(M):
             if grid[i][j] == -1:
                 continue
             cnt = 0
