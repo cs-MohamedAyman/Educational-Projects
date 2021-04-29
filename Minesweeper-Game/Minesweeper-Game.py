@@ -1,6 +1,5 @@
 import random
-N = 8
-M = 8
+N, M = 8, 8
 mines = 8
 viewed_grid, grid = [], []
 
