@@ -133,29 +133,40 @@ void generate_cells() {
 		for (int i = 0; i < root_N; i++) {
 			for (int j = 0; j < root_N; j++) {
                 int n = rand() % N + 1;
-                while (!check_valid_value(k+i, k+j, n) || check_original_cell(k+i, k+j))
+                while (!check_valid_value(k+i, k+j, n) || 
+					   check_original_cell(k+i, k+j))
 					n = rand() % N + 1;
                 grid[k+i][k+j] = n;
                 cpy_grid[k+i][k+j] = n;
 			}
 		}
 	}
+}
+//This function removes cells in the grid
+void remove_cells() {
+    for (int k = 0; k < (N+1)/2; k++) {
+        for (int i = 0; i < N; i+=root_N) {
+			for (int j = 0; j < N; j+=root_N) {
+                int t1 = rand() % root_N;
+                int t2 = rand() % root_N;
+                while (!check_original_cell(i+t1, j+t2)) {
+					t1 = rand() % root_N;
+					t2 = rand() % root_N;
+				}
+                grid[i+t1][j+t2] = 0;
+                cpy_grid[i+t1][j+t2] = 0;
+			}
+		}
+	}
+}
+//This function generates cells in the given grid
+void generate_grid() {
+    //Generate cells in the grid
+    generate_cells();
     //Solve the complete grid
     solve_grid(0, 0);
     //Remove cells in the grid to be solved
-    int prev_x = 0, prev_y = 0;
-    for (int k = 0; k < N*N - N/2*N; k++) {
-        int i = (rand() % N + prev_x + root_N) % N;
-        int j = (rand() % N + prev_y + root_N) % N;
-        while (!check_original_cell(i, j)) {
-			i = (rand() % N + prev_x + root_N) % N;
-			j = (rand() % N + prev_y + root_N) % N;
-		}
-        grid[i][j] = 0;
-        cpy_grid[i][j] = 0;
-        prev_x = i;
-		prev_y = j;
-	}
+    remove_cells();
 }
 //This function clears the game structures
 void grid_clear() {
@@ -201,7 +212,7 @@ void play_game() {
 int main() {
 	while (true) {
 		grid_clear();
-		generate_cells();
+		generate_grid();
 		play_game();
     	char c;
     	cout << "Play Again [Y/N] ";
