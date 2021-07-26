@@ -23,7 +23,7 @@ def print_grid(p, display_used_cells=False):
 #This function checks if the game has a win state or not
 def check_win():
     for i in range(N):
-        for j in range(N):
+        for j in range(M):
             if grid[1-player][i][j] == used_cell:
                 return False
     return True
