@@ -56,7 +56,7 @@ def set_cell(i, j, mark):
 def grid_clear():
     global grid, player, used_segments
     player = 0
-    grid = [[['.'] * N for i in range(N)] for j in range(2)]
+    grid = [[['.'] * M for i in range(N)] for j in range(2)]
     used_segments = [[[0, 0, 0, 0] for i in range(len(length_shapes))] for j in range(2)]
 
 #This function reads a valid position input
