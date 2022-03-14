@@ -1,2 +1,2 @@
 # Educational-Projects
-Educational projects for computer science students.
+Educational Projects for computer science students.
