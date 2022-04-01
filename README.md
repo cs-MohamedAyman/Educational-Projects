@@ -67,9 +67,4 @@ Operation Research Projects for computer science students, which including the f
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
 Bioinformatics Projects for computer science students, which including the following main topics:
 
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
-#### - [](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
+coming soon ...
