@@ -2,7 +2,7 @@
 Educational Projects for computer science students.
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/README.md) Projects
 Computer Science Projects for computer science students, which including the following main topics:
@@ -13,7 +13,7 @@ Computer Science Projects for computer science students, which including the fol
 #### - [Advanced Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/README.md) Projects
 #### - [Theory of Computation and Compiler Design](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/README.md) Projects
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering-Projects/README.md) Projects
 Software Engineering Projects for computer science students, which including the following main topics:
@@ -24,7 +24,7 @@ Software Engineering Projects for computer science students, which including the
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering-Projects/README.md) Projects
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering-Projects/README.md) Projects
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md) Projects
 Artificial Intelligence Projects for computer science students, which including the following main topics:
@@ -35,7 +35,7 @@ Artificial Intelligence Projects for computer science students, which including 
 #### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md) Projects
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence-Projects/README.md) Projects
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
 ## [`Data Science`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 Data Science Projects for computer science students, which including the following main topics:
@@ -46,7 +46,7 @@ Data Science Projects for computer science students, which including the followi
 #### - [Business Intelligence](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 Operation Research Projects for computer science students, which including the following main topics:
@@ -57,7 +57,7 @@ Operation Research Projects for computer science students, which including the f
 #### - [Reinforcement Learning](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 #### - [Advanced Simulations](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics-Projects/README.md) Projects
 Bioinformatics Projects for computer science students, which including the following main topics:
