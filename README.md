@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/educational-projects.jpg"></img>
+<img align="right" width="95" height="95" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/educational-projects.jpg"></img>
 
 # Educational Projects
 Educational Projects for computer science students.
