@@ -25,10 +25,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">8 Puzzle Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/tic-tac-toe-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/connect-four-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/gomoku-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/8-puzzle-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">SOS Game</a></td>
@@ -37,10 +37,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Sudoku Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/sos-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/dots-and-boxes-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/snakes-and-ladders-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/sudoku-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Matrix Calculator</a></td>
@@ -49,10 +49,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Library System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/matrix-calculator.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/company-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/grid-games-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/library-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Bank System</a></td>
@@ -61,10 +61,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Project Management System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/bank-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/champions-league-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/hospital-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/project-management-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">University System</a></td>
@@ -73,10 +73,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">City System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/university-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/cinema-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/e-commerce-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/city-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Airport System</a></td>
@@ -85,10 +85,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Transportation System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/airport-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/building-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/radio-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/transportation-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Clinic System</a></td>
@@ -97,10 +97,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Opera System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/clinic-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/school-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/theater-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/opera-system.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Railway Station System</a></td>
@@ -109,10 +109,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Programming-Languages-and-Object-Oriented-Projects/README.md">Cooking System</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/railway-station-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/petrol-station-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/hotel-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/cooking-system.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
