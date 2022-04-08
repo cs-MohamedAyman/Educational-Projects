@@ -478,53 +478,5 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Computer-Science-Projects/Theory-of-Computation-and-Compiler-Design-Projects/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
     </tbody>
 </table>
