@@ -283,7 +283,7 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Spots Connect Game</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Make 10 Drop Game</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">2248 Game</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Alphago Game</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">AlphaGo Game</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/spots-connect-game.jpg" width="80%"></img></td>
