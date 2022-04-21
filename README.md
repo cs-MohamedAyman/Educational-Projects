@@ -44,7 +44,7 @@ Data Science Projects for computer science students, which including the followi
 
 #### - [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
-#### - [Natural Language Processing](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
+#### - [Natural Language Processing and Text Mining](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 #### - [Business Intelligence](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science-Projects/README.md) Projects
 
