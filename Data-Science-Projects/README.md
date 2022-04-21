@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Data Science and Business Analytics Projects](#Data-Science-and-Business-Analytics-Projects)
   * [Data Analysis and Visualization Projects](#Data-Analysis-and-Visualization-Projects)
-  * [Natural Language Processing Projects](#Natural-Language-Processing-Projects)
+  * [Natural Language Processing and Text Mining Projects](#Natural-Language-Processing-and-Text-Mining-Projects)
   * [Business Intelligence Projects](#Business-Intelligence-Projects)
   * [Data Storage and Retrieval Projects](#Data-Storage-and-Retrieval-Projects)
 
@@ -220,7 +220,7 @@
     </tbody>
 </table>
 
-## [Natural Language Processing](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence-Projects/Natural-Language-Processing-Projects/README.md) Projects
+## [Natural Language Processing and Text Mining](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence-Projects/Natural-Language-Processing-Projects/README.md) Projects
 
 <table>
     <tbody>
