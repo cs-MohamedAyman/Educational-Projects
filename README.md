@@ -56,7 +56,7 @@ Operation Research Projects for computer science students, which including the f
 #### - [Linear and Nonlinear Programming](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 #### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
-#### - [Reinforcement Learning](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
+#### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 #### - [Advanced Simulations](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research-Projects/README.md) Projects
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
