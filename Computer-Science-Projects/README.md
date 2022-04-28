@@ -304,28 +304,28 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/water-pipes-game.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Mini Radar</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Ping Pong Game</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Rocket Launching</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Brick Breaker</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/mini-radar.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/ping-pong-game.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/rocket-launching.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/brick-breaker.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Walking Robot</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Solar System</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Racing Car</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science-Projects/Advanced-Data-Structures-and-Algorithms-Projects/README.md">Airplane Simulator</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/walking-robot.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/solar-system.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/racing-car.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/airplane-simulator.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
