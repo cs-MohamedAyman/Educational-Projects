@@ -14,15 +14,15 @@
 
 <br><br>
 
-## [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md) Projects
+## [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md) Projects
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -31,10 +31,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -43,10 +43,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -55,10 +55,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -67,10 +67,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -79,10 +79,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -91,10 +91,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -103,10 +103,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms-Projects/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
