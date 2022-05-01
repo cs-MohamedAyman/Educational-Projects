@@ -9,7 +9,7 @@
   * [Data Science and Business Analytics Projects](#Data-Science-and-Business-Analytics-Projects)
   * [Data Analysis and Visualization Projects](#Data-Analysis-and-Visualization-Projects)
   * [Natural Language Processing and Text Mining Projects](#Natural-Language-Processing-and-Text-Mining-Projects)
-  * [Business Intelligence Projects](#Business-Intelligence-Projects)
+  * [Business Intelligence and Data Management Projects](#Business-Intelligence-and-Data-Management-Projects)
   * [Data Storage and Retrieval Projects](#Data-Storage-and-Retrieval-Projects)
 
 <br><br>
@@ -323,7 +323,7 @@
     </tbody>
 </table>
 
-## [Business Intelligence](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Projects
+## [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Projects
 
 <table>
     <tbody>
