@@ -220,15 +220,15 @@
     </tbody>
 </table>
 
-## [Natural Language Processing and Text Mining](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md) Projects
+## [Natural Language Processing and Text Mining](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md) Projects
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -237,10 +237,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -249,10 +249,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -261,10 +261,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -273,10 +273,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -285,10 +285,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -297,10 +297,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -309,10 +309,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
