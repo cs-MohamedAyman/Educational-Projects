@@ -1,8 +1,9 @@
-<img align="right" width="200" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/educational-projects.jpg">
+<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg"></img>
 
 # Artificial Intelligence Projects
 
-<br><br><br><br><br>
+<br><br><br><br>
+
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
