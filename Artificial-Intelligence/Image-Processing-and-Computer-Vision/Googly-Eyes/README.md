@@ -41,3 +41,61 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/12.png"></img></td>
     </tbody>
 </table>
+<table>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/13.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/13.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/14.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/14.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/15.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/15.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/16.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/16.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/17.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/17.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/18.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/18.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/19.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/19.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/20.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/20.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/21.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/21.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/22.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/22.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/23.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/23.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/24.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/24.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/25.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/25.png"></img></td>
+    </tbody>
+    <tbody>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/26.jpg"></img></td>
+<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/26.png"></img></td>
+    </tbody>
+</table>
