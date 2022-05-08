@@ -3,6 +3,8 @@
 
 ## Input / Output Samples
 
+### Single face
+
 <table>
     <tbody>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/1.jpg"></img></td>
@@ -41,6 +43,9 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/12.png"></img></td>
     </tbody>
 </table>
+
+### Multiple faces
+
 <table>
     <tbody>
 <td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/13.jpg"></img></td>
@@ -89,13 +94,5 @@
     <tbody>
 <td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/24.jpg"></img></td>
 <td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/24.png"></img></td>
-    </tbody>
-    <tbody>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/25.jpg"></img></td>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/25.png"></img></td>
-    </tbody>
-    <tbody>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/input_images/26.jpg"></img></td>
-<td align=center width="50%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Artificial-Intelligence/Image-Processing-and-Computer-Vision/Googly-Eyes/output_images/26.png"></img></td>
     </tbody>
 </table>
