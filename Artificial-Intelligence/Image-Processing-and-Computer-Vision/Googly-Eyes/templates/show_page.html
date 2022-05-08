@@ -1,0 +1,30 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Test Image</title>
+    </head>
+    <style>
+        .btn {
+            background-color: dodgerblue;
+            border: none;
+            color: white;
+            padding: 12px 30px;
+            cursor: pointer;
+            font-size: 20px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .btn:hover {
+            background-color: RoyalBlue;
+        }
+    </style>
+    <body>
+        <div style="text-align:center; margin-top: 50px;">
+            <img width="500px" src="data:image/png; base64,{{img_data}}"></img><br>
+            <a download="converted_image.png" href="data:image/png; base64,{{img_data}}">
+                <button class="btn">Download</button>
+            </a>
+        </div>
+    </body>
+</html>

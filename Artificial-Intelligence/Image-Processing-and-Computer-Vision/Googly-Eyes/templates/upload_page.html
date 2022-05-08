@@ -1,0 +1,38 @@
+<html>
+    <style>
+    .btn {
+        background-color: dodgerblue;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    .btn:hover {
+        background-color: RoyalBlue;
+    }
+    .convert {
+        margin-left: 15px;
+    }
+    </style>
+    <body>
+        <div style="text-align:center; margin-top: 50px;">
+            <form action="/converter" method="POST" enctype="multipart/form-data">
+                <input class="btn" type="file" name="original_image" onchange="previewImage(event)" required/>
+                <button class="btn convert" type="submit">Convert</button>
+            </form>
+            <img width="500px" id="preview"/>
+        </div>
+   </body>
+   <script>
+        const previewImage = e => {
+            const reader=new FileReader();
+            reader.readAsDataURL(e.target.files[0]);
+            reader.onload = () => {
+                const preview=document.getElementById('preview');
+                preview.src=reader.result;
+            };
+        };
+   </script>
+</html>
