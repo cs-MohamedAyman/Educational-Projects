@@ -1,8 +1,8 @@
-<img align="right" width="200" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/educational-projects.jpg">
+<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg"></img>
 
 ## Programming Languages and Object Oriented Projects
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/tic-tac-toe-game.jpg">
 
