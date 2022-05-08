@@ -1,9 +1,10 @@
-<img align="right" width="200" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/educational-projects.jpg"></img>
+<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg"></img>
 
 # Educational Projects
 Educational Projects for computer science students.
 
-<br><br><br><br>
+<br><br><br>
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Computer-Science/README.md) Projects
