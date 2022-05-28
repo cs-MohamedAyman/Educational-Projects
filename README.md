@@ -49,6 +49,17 @@ Data Science Projects for computer science students, which including the followi
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science/README.md) Projects
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Data-Science/README.md) Projects
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+Bioinformatics Projects for computer science students, which including the following main topics:
+
+#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research/README.md) Projects
@@ -59,10 +70,3 @@ Operation Research Projects for computer science students, which including the f
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research/README.md) Projects
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research/README.md) Projects
 #### - [Advanced Simulations](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Operation-Research/README.md) Projects
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
-Bioinformatics Projects for computer science students, which including the following main topics:
-
-coming soon ...
