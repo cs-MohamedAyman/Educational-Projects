@@ -21,7 +21,7 @@ Computer Science Projects for computer science students, which including the fol
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
 Software Engineering Projects for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
 #### - [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Software-Engineering/README.md) Projects
