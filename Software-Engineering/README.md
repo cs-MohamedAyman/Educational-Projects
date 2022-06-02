@@ -7,7 +7,7 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Software Engineering Projects](#Software-Engineering-Projects-1)
+  * [Fundamentals of Software Engineering Projects](#Fundamentals-of-Software-Engineering-Projects)
   * [Distributed Systems and Cloud Computing Projects](#Distributed-Systems-and-Cloud-Computing-Projects)
   * [Database Systems and Warehousing Projects](#Database-Systems-and-Warehousing-Projects)
   * [Continuous Delivery and DevOps Projects](#Continuous-Delivery-and-DevOps-Projects)
@@ -15,7 +15,7 @@
 
 <br><br>
 
-## [Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md) Projects
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md) Projects
 
 <table>
     <tbody>
