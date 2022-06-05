@@ -15,15 +15,15 @@
 
 <br><br>
 
-## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md) Projects
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md) Projects
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -32,10 +32,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -44,10 +44,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -56,10 +56,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -68,10 +68,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -80,10 +80,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -92,10 +92,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
@@ -104,10 +104,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
