@@ -54,11 +54,11 @@ Data Science Projects for computer science students, which including the followi
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
 Bioinformatics Projects for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
-#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
-#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
-#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
-#### - [Template](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Data Analysis and Visualization in Healthcare](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/Bioinformatics/README.md) Projects
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
