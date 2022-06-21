@@ -935,9 +935,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/project-management-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/project-system.jpg">
 
-## `Project 20` [Project Management System]()
+## `Project 20` [Project System]()
 
 ### Project Description
 
