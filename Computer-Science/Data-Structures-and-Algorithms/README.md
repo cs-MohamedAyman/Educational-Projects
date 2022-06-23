@@ -4,7 +4,7 @@
 
 <br><br><br><br><br>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/mobile-contacts-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/mobile-contacts.jpg">
 
 ## `Project 01` [Mobile Contacts System]()
 
@@ -53,7 +53,7 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/restaurant-orders-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/restaurant-orders.jpg">
 
 ## `Project 02` [Restaurant Orders System]()
 
@@ -102,7 +102,7 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/issue-tracking-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/issue-tracking.jpg">
 
 ## `Project 03` [Issue Tracking System]()
 
@@ -151,7 +151,7 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/transportation-ticketing-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/transportation-ticketing.jpg">
 
 ## `Project 04` [Transportation Ticketing System]()
 
