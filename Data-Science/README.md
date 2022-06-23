@@ -20,100 +20,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -123,100 +91,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -226,100 +162,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -329,100 +233,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -432,100 +304,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="80%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
