@@ -690,9 +690,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/grid-games-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/building-system.jpg">
 
-## `Project 15` [Grid Games System]()
+## `Project 15` [Building System]()
 
 ### Project Description
 
@@ -935,9 +935,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/project-system.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/radio-system.jpg">
 
-## `Project 20` [Project System]()
+## `Project 20` [Radio System]()
 
 ### Project Description
 
@@ -1134,202 +1134,6 @@
 <img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/cooking-system.jpg">
 
 ## `Project 24` [Cooking System]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/airport-system.jpg">
-
-## `Project 25` [Airport System]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/building-system.jpg">
-
-## `Project 26` [Building System]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/radio-system.jpg">
-
-## `Project 27` [Radio System]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/transportation-system.jpg">
-
-## `Project 28` [Transportation System]()
 
 ### Project Description
 
