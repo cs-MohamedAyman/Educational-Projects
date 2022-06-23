@@ -4,58 +4,9 @@
 
 <br><br><br><br><br>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/match-cards-game.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/mobile-contacts-system.jpg">
 
-## `Project 01` [Match Cards Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/reversi-game.jpg">
-
-## `Project 02` [Reversi Game]()
+## `Project 01` [Mobile Contacts System]()
 
 ### Project Description
 
@@ -102,58 +53,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/draughts-game.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/restaurant-orders-system.jpg">
 
-## `Project 03` [Draughts Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/minesweeper-game.jpg">
-
-## `Project 04` [Minesweeper Game]()
+## `Project 02` [Restaurant Orders System]()
 
 ### Project Description
 
@@ -200,58 +102,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/2048-game.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/issue-tracking-system.jpg">
 
-## `Project 05` [2048 Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/ultimate-tic-tac-toe-game.jpg">
-
-## `Project 06` [Ultimate Tic Tac Toe Game]()
+## `Project 03` [Issue Tracking System]()
 
 ### Project Description
 
@@ -298,58 +151,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/battleship-game.jpg">
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/transportation-ticketing-system.jpg">
 
-## `Project 07` [Battleship Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/multi-sudoku-game.jpg">
-
-## `Project 08` [Multi Sudoku Game]()
+## `Project 04` [Transportation Ticketing System]()
 
 ### Project Description
 
@@ -398,7 +202,203 @@
 
 <img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/equation-solver.jpg">
 
-## `Project 09` [Equation Solver]()
+## `Project 05` [Equation Solver]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/2048-game.jpg">
+
+## `Project 06` [2048 Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/ultimate-tic-tac-toe-game.jpg">
+
+## `Project 07` [Ultimate Tic Tac Toe Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/battleship-game.jpg">
+
+## `Project 08` [Battleship Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/multi-sudoku-game.jpg">
+
+## `Project 09` [Multi Sudoku Game]()
 
 ### Project Description
 
@@ -788,205 +788,9 @@
     </tbody>
 </table>
 
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/8-queens-game.jpg">
-
-## `Project 17` [8 Queens Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/knights-tour-game.jpg">
-
-## `Project 18` [Knights Tour Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/chess-endgame-game.jpg">
-
-## `Project 19` [Chess Endgame Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/chess-game.jpg">
-
-## `Project 20` [Chess Game]()
-
-### Project Description
-
-### Project Tasks
-
-<table>
-    <tbody>
-        <tr>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-<td align=center width="100px">#</td>
-<td align=center width="425px">Task Title</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 01</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 02</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 03</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 04</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 05</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 06</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 07</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 08</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-        <tr>
-<td align=center width="100px">Task 09</td>
-<td align=left width="425px">TaskTitle</td>
-<td align=center width="100px">Task 10</td>
-<td align=left width="425px">TaskTitle</td>
-        </tr>
-    </tbody>
-</table>
-
 <img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/maze-game.jpg">
 
-## `Project 21` [Maze Game]()
+## `Project 17` [Maze Game]()
 
 ### Project Description
 
@@ -1035,7 +839,203 @@
 
 <img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/pacman-game.jpg">
 
-## `Project 22` [Pacman Game]()
+## `Project 18` [Pacman Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/8-queens-game.jpg">
+
+## `Project 19` [8 Queens Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/knights-tour-game.jpg">
+
+## `Project 20` [Knights Tour Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/chess-endgame-game.jpg">
+
+## `Project 21` [Chess Endgame Game]()
+
+### Project Description
+
+### Project Tasks
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+<td align=center width="100px">#</td>
+<td align=center width="425px">Task Title</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 01</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 02</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 03</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 04</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 05</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 06</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 07</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 08</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+        <tr>
+<td align=center width="100px">Task 09</td>
+<td align=left width="425px">TaskTitle</td>
+<td align=center width="100px">Task 10</td>
+<td align=left width="425px">TaskTitle</td>
+        </tr>
+    </tbody>
+</table>
+
+<img align="right" width="150" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/chess-game.jpg">
+
+## `Project 22` [Chess Game]()
 
 ### Project Description
 
