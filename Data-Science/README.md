@@ -4,7 +4,7 @@
 
 <br><br><br><br>
 
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Data Science and Business Analytics Projects](#Data-Science-and-Business-Analytics-Projects)
