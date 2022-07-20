@@ -20,68 +20,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -91,68 +91,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -162,68 +162,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -233,68 +233,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -304,68 +304,68 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
         <tr>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
-<td align=center><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
+<td align="center"><img src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/projects-logos/image.jpg" width="90%"></img></td>
         </tr>
     </tbody>
 </table>
