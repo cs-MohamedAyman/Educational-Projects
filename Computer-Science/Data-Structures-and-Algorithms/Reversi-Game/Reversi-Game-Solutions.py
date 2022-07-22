@@ -30,27 +30,27 @@ def check_full():
 def check_player_ability():
     return len(possible_cells) != 0
 
-#This function checks if given cell is chosen or not 
+#This function checks if given cell is chosen or not
 def check_chosen(i, j):
     return (i, j) in possible_cells
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == '.'
+    return grid[i][j] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[i][j] = mark
+    grid[i][j] = mark
 
 #This function gets the most cell in the given direction
 def get_most_cell(i, j, dx, dy, player, target_mark):
     cnt = 0
     while check_valid_position(i, j) and grid[i][j] == marks[1-player]:
-        i += dx 
+        i += dx
         j += dy
         cnt += 1
     return (i, j) if check_valid_position(i, j) and grid[i][j] == target_mark and cnt > 0 else (-1, -1)
@@ -83,7 +83,7 @@ def switch_cells(i, j, player):
             curr_i += dx
             curr_j += dy
 
-#This function generates the possible cells to be chosen 
+#This function generates the possible cells to be chosen
 def generate_possible_cells(player):
     global possible_cells
     possible_cells = []
@@ -129,7 +129,7 @@ def play_game():
     print("============================")
     player = 0
     while True:
-        #Generate the possible cells to be chosen 
+        #Generate the possible cells to be chosen
         generate_possible_cells(player)
         #Mark the possible cells
         mark_possible_cells()
@@ -142,7 +142,7 @@ def play_game():
         if not check_player_ability():
             print('Sorry, you can not play on this turn!')
             #Player number changes after each turn
-            player = 1 - player 
+            player = 1 - player
             continue
         #Read an input position from the player
         i, j = read_input()
@@ -162,12 +162,12 @@ def play_game():
                 print("Woah! That's a tie!")
             break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

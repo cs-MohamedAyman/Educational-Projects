@@ -18,11 +18,11 @@ def check_win():
             return False
     return True
 
-#This function checks if the given position is valid or not 
+#This function checks if the given position is valid or not
 def check_valid_position(i, j):
     pass
 
-#This function checks if the given grid index is valid or not 
+#This function checks if the given grid index is valid or not
 def check_valid_grid_index(grid_idx):
     pass
 

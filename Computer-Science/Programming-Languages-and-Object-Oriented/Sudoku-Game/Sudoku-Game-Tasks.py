@@ -23,7 +23,7 @@ def print_grid():
 def check_win():
     pass
 
-#This function checks if the given position is valid or not 
+#This function checks if the given position is valid or not
 def check_valid_position(i, j):
     pass
 
@@ -86,7 +86,7 @@ def remove_cells():
 #This function generates cells in the given grid
 def generate_grid():
     #Generate cells in the grid
-    generate_cells()    
+    generate_cells()
     #Solve the complete grid
     solve_grid(0, 0)
     #Remove cells in the grid to be solved

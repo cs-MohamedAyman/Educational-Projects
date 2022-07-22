@@ -20,7 +20,7 @@ def print_grid():
         print()
         print('-' * ((N+4) * N + N + 1))
 
-#This function generates a cell with value 2 
+#This function generates a cell with value 2
 def generate_cell():
     a = random.randint(0, N-1)
     b = random.randint(0, N-1)
@@ -39,7 +39,7 @@ def rotate_90():
             grid[N-i-1][N-j-1] = grid[j][N-i-1]
             grid[j][N-i-1]     = k
 
-#This function checks if the game state reachs 2048 or not 
+#This function checks if the game state reachs 2048 or not
 def check_win():
     for i in range(N):
         for j in range(N):
@@ -51,11 +51,11 @@ def check_win():
 def check_available_direction():
     for i in range(N):
         j = 0
-        while j < N and grid[i][j] == 0: 
-            j +=1 
-        while j < N and grid[i][j] != 0: 
-            j +=1 
-        if j < N: 
+        while j < N and grid[i][j] == 0:
+            j +=1
+        while j < N and grid[i][j] != 0:
+            j +=1
+        if j < N:
             return True
         for k in range(N-1):
             if grid[i][k] == grid[i][k+1] and grid[i][k] != 0:
@@ -97,7 +97,7 @@ def check_full():
                 return False
     return True
 
-#This function merges the grid with the right direction 
+#This function merges the grid with the right direction
 def merge():
     for i in range(N):
         j = N-1
@@ -108,7 +108,7 @@ def merge():
                 j -= 1
             j -= 1
 
-#This function merges the grid with the given direction 
+#This function merges the grid with the given direction
 def merge_direction(d):
     #merge direction right
     if d == 3: merge()
@@ -123,7 +123,7 @@ def merge_direction(d):
     if d == 2: merge()
     rotate_90()
 
-#This function moves the grid with the left direction 
+#This function moves the grid with the left direction
 def move():
     for i in range(N):
         temp = []
@@ -133,7 +133,7 @@ def move():
         for j in range(N):
             grid[i][j] = temp[j] if j < len(temp) else 0
 
-#This function moves the grid with the given direction 
+#This function moves the grid with the given direction
 def move_direction(d):
     #move direction left
     if d == 1: move()
@@ -148,14 +148,14 @@ def move_direction(d):
     if d == 5: move()
     rotate_90()
 
-#This function checks if the given direction is valid or not 
+#This function checks if the given direction is valid or not
 def check_valid_direction(i):
-	return i in [1, 2, 3, 5]
+    return i in [1, 2, 3, 5]
 
 #This function clears the game structures
 def grid_clear():
-	global grid
-	grid = [[0] * N for i in range(N)]
+    global grid
+    grid = [[0] * N for i in range(N)]
 
 #This function reads a valid direction
 def read_input():
@@ -199,8 +199,8 @@ def play_game():
                 break
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

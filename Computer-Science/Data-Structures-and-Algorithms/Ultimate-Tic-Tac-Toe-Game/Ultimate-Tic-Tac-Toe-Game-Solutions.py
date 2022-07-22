@@ -36,21 +36,21 @@ def cvt_box_to_small_grid_pos(x):
 
 #This function converts the given position in the big grid into a position index in the big grid
 def cvt_big_grid_pos_to_big_grid_pos(i, j):
-	box_idx = cvt_big_grid_pos_to_box(i, j)
-	i, j = cvt_box_to_big_grid_pos(box_idx)
-	return i, j
+    box_idx = cvt_big_grid_pos_to_box(i, j)
+    i, j = cvt_box_to_big_grid_pos(box_idx)
+    return i, j
 
 #This function converts the given position in the big grid into a position index in the small grid
 def cvt_big_grid_pos_to_small_grid_pos(i, j):
-	box_idx = cvt_big_grid_pos_to_box(i, j)
-	i, j = cvt_box_to_small_grid_pos(box_idx)
-	return i, j
+    box_idx = cvt_big_grid_pos_to_box(i, j)
+    i, j = cvt_box_to_small_grid_pos(box_idx)
+    return i, j
 
 #This function checks if the game has a win state or not
 def check_win(grid, r=0, c=0):
     #Convert the given position in the big grid into a position index in the big grid
     r, c = cvt_big_grid_pos_to_big_grid_pos(r, c)
-    #Check if there is a row with full with same characters, 
+    #Check if there is a row with full with same characters,
     #the game is over and the player with that character has won
     for i in range(r, r+N):
         s = set()
@@ -58,7 +58,7 @@ def check_win(grid, r=0, c=0):
             s |= {grid[i][j]}
         if len(s) == 1 and '.' not in s:
             return True
-    #Check if there is a column with full with same characters, 
+    #Check if there is a column with full with same characters,
     #the game is over and the player with that character has won
     for i in range(c, c+N):
         s = set()
@@ -66,75 +66,75 @@ def check_win(grid, r=0, c=0):
             s |= {grid[j][i]}
         if len(s) == 1 and '.' not in s:
             return True
-    #Check if the left diagonal is full with same characters, 
+    #Check if the left diagonal is full with same characters,
     #the game is over and the player with that character has won
     s = set()
     for i in range(N):
         s |= {grid[r+i][c+i]}
     if len(s) == 1 and '.' not in s:
         return True
-    #Check if the right diagonal is full with same characters, 
+    #Check if the right diagonal is full with same characters,
     #the game is over and the player with that character has won
     s = set()
     for i in range(N):
         s |= {grid[r+i][c+N-i-1]}
     if len(s) == 1 and '.' not in s:
         return True
-    #Otherwise, there isn't a win state in the game, 
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
     return False
 
 #This function checks if the game has a tie state or not
 def check_tie(grid, mark, r=0, c=0):
-	#Convert the given position in the big grid into a position index in the big grid
-	r, c = cvt_big_grid_pos_to_big_grid_pos(r, c)
-	#Check if there is a row with a single type of characters
-	for i in range(r, r+N):
-		s = {mark}
-		for j in range(c, c+N):
-			if grid[i][j] != '.':
-				s |= {grid[i][j]}
-		if len(s) == 1:
-			return False
+    #Convert the given position in the big grid into a position index in the big grid
+    r, c = cvt_big_grid_pos_to_big_grid_pos(r, c)
+    #Check if there is a row with a single type of characters
+    for i in range(r, r+N):
+        s = {mark}
+        for j in range(c, c+N):
+            if grid[i][j] != '.':
+                s |= {grid[i][j]}
+        if len(s) == 1:
+            return False
     #Check if there is a column with a single type of characters
-	for i in range(c, c+N):
-		s = {mark}
-		for j in range(r, r+N):
-			if grid[j][i] != '.':
-				s |= {grid[j][i]}
-		if len(s) == 1:
-			return False
+    for i in range(c, c+N):
+        s = {mark}
+        for j in range(r, r+N):
+            if grid[j][i] != '.':
+                s |= {grid[j][i]}
+        if len(s) == 1:
+            return False
     #Check if the left diagonal is a single type of characters
-	s = {mark}
-	for i in range(N):
-		if grid[r+i][c+i] != '.':
-			s |= {grid[r+i][c+i]}
-	if len(s) == 1:
-			return False
+    s = {mark}
+    for i in range(N):
+        if grid[r+i][c+i] != '.':
+            s |= {grid[r+i][c+i]}
+    if len(s) == 1:
+            return False
     #Check if the right diagonal is a single type of characters
-	s = {mark}
-	for i in range(N):
-		if grid[r+i][c+N-i-1] != '.':
-			s |= {grid[r+i][c+N-i-1]}
-	if len(s) == 1:
-		return False
-    #Otherwise, there isn't a win state in the game, 
+    s = {mark}
+    for i in range(N):
+        if grid[r+i][c+N-i-1] != '.':
+            s |= {grid[r+i][c+N-i-1]}
+    if len(s) == 1:
+        return False
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
-	return True
+    return True
 
-#This function checks if the given cell in the big grid is empty or not 
+#This function checks if the given cell in the big grid is empty or not
 def check_empty_in_big_grid(i, j):
-	return big_grid[i][j] == '.'
+    return big_grid[i][j] == '.'
 
-#This function checks if the given cell in the small grid is empty or not 
+#This function checks if the given cell in the small grid is empty or not
 def check_empty_in_small_grid(i, j):
     return small_grid[i][j] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N*N and 0 <= j < N*N
+    return 0 <= i < N*N and 0 <= j < N*N
 
-#This function calculates the current selected box 
+#This function calculates the current selected box
 def set_next_box(i, j):
     global next_box
     x, y = cvt_big_grid_pos_to_big_grid_pos(i, j)
@@ -205,7 +205,7 @@ def play_game():
             #Announcement of the final statement in a box
             print("Woah! That's a tie in the box %s." % curr_box)
             fill_box(i, j, '#')
-        #Calculate the next selected box 
+        #Calculate the next selected box
         set_next_box(i, j)
         #Check if the small grid has a win state
         if check_win(small_grid):
@@ -222,12 +222,12 @@ def play_game():
             print("Woah! That's a tie!")
             break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

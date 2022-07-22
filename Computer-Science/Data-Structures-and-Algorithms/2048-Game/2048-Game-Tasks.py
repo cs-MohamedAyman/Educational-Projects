@@ -20,7 +20,7 @@ def print_grid():
         print()
         print('-' * ((N+4) * N + N + 1))
 
-#This function generates a cell with value 2 
+#This function generates a cell with value 2
 def generate_cell():
     pass
 
@@ -34,7 +34,7 @@ def rotate_90():
             grid[N-i-1][N-j-1] = grid[j][N-i-1]
             grid[j][N-i-1]     = k
 
-#This function checks if the game state reachs 2048 or not 
+#This function checks if the game state reachs 2048 or not
 def check_win():
     pass
 
@@ -63,11 +63,11 @@ def check_available_move(d):
 def check_full():
     pass
 
-#This function merges the grid with the right direction 
+#This function merges the grid with the right direction
 def merge():
     pass
 
-#This function merges the grid with the given direction 
+#This function merges the grid with the given direction
 def merge_direction(d):
     #merge direction right
     if d == 3: merge()
@@ -82,11 +82,11 @@ def merge_direction(d):
     if d == 2: merge()
     rotate_90()
 
-#This function moves the grid with the left direction 
+#This function moves the grid with the left direction
 def move():
     pass
 
-#This function moves the grid with the given direction 
+#This function moves the grid with the given direction
 def move_direction(d):
     #move direction left
     if d == 1: move()
@@ -101,7 +101,7 @@ def move_direction(d):
     if d == 5: move()
     rotate_90()
 
-#This function checks if the given direction is valid or not 
+#This function checks if the given direction is valid or not
 def check_valid_direction(i):
     pass
 
@@ -151,8 +151,8 @@ def play_game():
                 break
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

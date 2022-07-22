@@ -22,7 +22,7 @@ def print_grid():
             print(e, end='|')
         print()
         print('-' * (5 * M + M + 1))
-    
+
 #This function generates mines in the grid
 def generate_mines():
     for i in range(mines):
@@ -33,14 +33,14 @@ def generate_mines():
             b = random.randint(0, M-1)
         grid[a][b] = -1
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
 #This function calculates the total number of mines in the neighbour cells
 def calc_neighbour_mines():
     pass
-            
+
 #This function generates cells in the grid
 def generate_grid():
     #Generate mines in the grid
@@ -64,11 +64,11 @@ def check_view_cell(i, j):
 def check_flag_cell(i, j):
     pass
 
-#This function checks if the game state reachs the win state or not 
+#This function checks if the game state reachs the win state or not
 def check_win():
     pass
 
-#This function checks if given operation is valid or not 
+#This function checks if given operation is valid or not
 def check_valid_operation(x):
     pass
 

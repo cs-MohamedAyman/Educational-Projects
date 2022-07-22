@@ -22,7 +22,7 @@ def print_grid():
 #This function checks if the game has a win state or not
 def check_win():
     #Check if there is an accepted row
-	#the game is over and the player with that character has won
+    #the game is over and the player with that character has won
     for i in range(N):
         for j in range(M-3):
             s = {grid[i][j], grid[i][j+1], grid[i][j+2], grid[i][j+3]}
@@ -49,7 +49,7 @@ def check_win():
             s = {grid[i][j], grid[i+1][j-1], grid[i+2][j-2], grid[i+3][j-3]}
             if grid[i][j] != '.' and len(s) == 1:
                 return True
-    #Otherwise, there isn't a win state in the game, 
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
     return False
 
@@ -79,7 +79,7 @@ def check_tie_player(mark):
             s = {mark, grid[i][j], grid[i+1][j-1], grid[i+2][j-2], grid[i+3][j-3]}
             if '.' in s and len(s) == 2:
                 return False
-    #Otherwise, there isn't a tie state in the game, 
+    #Otherwise, there isn't a tie state in the game,
     #if all cases above not reached
     return True
 
@@ -91,11 +91,11 @@ def check_tie():
             all_tie = False
     return all_tie
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i):
     return grid[0][i] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_column(i):
     return 0 <= i < M
 
@@ -146,14 +146,14 @@ def play_game():
             print_grid()
             #Announcement of the final statement
             print("Woah! That's a tie!")
-            break		
+            break
         #Player number changes after each turn
         player = (player + 1) % n_players
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

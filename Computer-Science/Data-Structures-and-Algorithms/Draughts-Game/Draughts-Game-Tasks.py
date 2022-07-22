@@ -27,15 +27,15 @@ def check_win():
 def check_player_ability():
     pass
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
     pass
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
-#This function checks if given cell is chosen or not 
+#This function checks if given cell is chosen or not
 def check_chosen(i1, j1, i2, j2):
     pass
 
@@ -55,7 +55,7 @@ def generate_possible_cells_attack_case(player):
 def generate_possible_cells_defence_case(player):
     pass
 
-#This function generates the possible cells to be chosen 
+#This function generates the possible cells to be chosen
 def generate_possible_cells(player):
     global possible_cells
     possible_cells = []
@@ -92,7 +92,7 @@ def play_game():
     print("============================")
     player = 0
     while True:
-        #Generate the possible cells to be chosen 
+        #Generate the possible cells to be chosen
         generate_possible_cells(player)
         #Mark the possible cells
         mark_possible_cells()
@@ -116,12 +116,12 @@ def play_game():
             print('Congrats, Player %s is won!' % marks[0][player])
             break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

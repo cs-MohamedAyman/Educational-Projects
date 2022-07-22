@@ -24,23 +24,23 @@ def print_grid(p, display_used_cells=False):
 def check_win():
     pass
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
     pass
 
-#This function checks if given cell is sunken or not 
+#This function checks if given cell is sunken or not
 def check_sunken(i, j):
     pass
 
-#This function checks if given cell is damaged or not 
+#This function checks if given cell is damaged or not
 def check_damaged(i, j):
     pass
 
-#This function checks if given cell is used or not 
+#This function checks if given cell is used or not
 def check_used(i, j):
     pass
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
@@ -59,7 +59,7 @@ def read_input():
         i, j = map(int, input('Enter a valid row index and a valid column index: ').split())
     return i, j
 
-#This function checks if given side is valid or not 
+#This function checks if given side is valid or not
 def check_valid_side(length, i1, j1, i2, j2):
     pass
 
@@ -67,11 +67,11 @@ def check_valid_side(length, i1, j1, i2, j2):
 def arrange_side_points(i1, j1, i2, j2):
     pass
 
-#This function checks if the given side is empty or not 
+#This function checks if the given side is empty or not
 def check_empty_side(p, length, i1, j1, i2, j2):
     pass
 
-#This function checks if the given side is damaged or not 
+#This function checks if the given side is damaged or not
 def check_damaged_side(p, length, i1, j1, i2, j2):
     pass
 
@@ -117,7 +117,7 @@ def play_game():
         hited = hit_cell(i, j)
         #Prints the grid
         print_grid(1-player)
-        if hited: 
+        if hited:
             print('The selected position has been destroyed successfully')
         else:
             print('The selected position was an empty position')
@@ -128,7 +128,7 @@ def play_game():
             break
         if not hited:
             #Player number changes after each turn
-            player = 1 - player 
+            player = 1 - player
 
 #This function sets the configuration of the given player
 def set_config(curr_player):

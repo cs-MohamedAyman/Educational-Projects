@@ -32,8 +32,8 @@ def check_win_grid(grid_idx):
                     s.add(grids[grid_idx][k][w])
             if len(s) != N or 0 in s:
                 return False
-    #Otherwise, there is a win state in the game, 
-    #if all cases above not reached		
+    #Otherwise, there is a win state in the game,
+    #if all cases above not reached
     return True
 
 #This function checks if the game has a win state or not
@@ -43,11 +43,11 @@ def check_win():
             return False
     return True
 
-#This function checks if the given position is valid or not 
+#This function checks if the given position is valid or not
 def check_valid_position(i, j):
     return 0 <= i < N and 0 <= j < N
 
-#This function checks if the given grid index is valid or not 
+#This function checks if the given grid index is valid or not
 def check_valid_grid_index(grid_idx):
     return 0 <= grid_idx < n_grids[mode]
 
@@ -57,28 +57,28 @@ def check_original_cell(grid_idx, i, j):
 
 #This function checks if the given value is valid with the given cell
 def check_valid_value(grid_idx, i, j, v):
-	#Check delete case
+    #Check delete case
     if v == 0:
         return True
-	#Check invalid value
+    #Check invalid value
     if v < 1 or v > N:
         return False
-	#Check duplicate in all rows
+    #Check duplicate in all rows
     for k in range(N):
         if grids[grid_idx][i][k] == v:
             return False
-	#Check duplicate in all columns
+    #Check duplicate in all columns
     for k in range(N):
         if grids[grid_idx][k][j] == v:
             return False
-	#Check duplicate in all boxes
+    #Check duplicate in all boxes
     b, e = i//root_N*root_N, j//root_N*root_N
     for k in range(b, b+root_N):
         for w in range(e, e+root_N):
             if grids[grid_idx][k][w] == v:
                 return False
     #Otherwise, the given value is valid,
-    #if all cases above not reached		
+    #if all cases above not reached
     return True
 
 #This function converts the given position in the grid into a box number
@@ -141,7 +141,7 @@ def get_similar_boxes(grid_idx, box_idx):
             res += [(grid_j, box_j)]
         if grid_idx == grid_j and box_idx == box_j:
             res += [(grid_i, box_i)]
-    return res    
+    return res
 
 #This function copies the given box in the shared boxes in the other grids
 def cpy_box_in_shared_boxes(grid_idx, box_idx, shared_boxes, set_original=False):

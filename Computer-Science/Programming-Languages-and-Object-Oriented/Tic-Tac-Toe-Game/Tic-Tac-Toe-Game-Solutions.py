@@ -17,39 +17,39 @@ def print_grid():
 
 #This function checks if the game has a win state or not
 def check_win():
-    #Check if there is a row with full with same characters, 
-	#the game is over and the player with that character has won
-	for i in range(N):
-		s = set()
-		for j in range(N):
-			s |= {grid[i][j]}
-		if len(s) == 1 and '.' not in s:
-			return True
-    #Check if there is a column with full with same characters, 
-	#the game is over and the player with that character has won
-	for i in range(N):
-		s = set()
-		for j in range(N):
-			s |= {grid[j][i]}
-		if len(s) == 1 and '.' not in s:
-			return True
-    #Check if the left diagonal is full with same characters, 
-	#the game is over and the player with that character has won
-	s = set()
-	for i in range(N):
-		s |= {grid[i][i]}
-	if len(s) == 1 and '.' not in s:
-		return True
-    #Check if the right diagonal is full with same characters, 
-	#the game is over and the player with that character has won
-	s = set()
-	for i in range(N):
-		s |= {grid[i][N-i-1]}
-	if len(s) == 1 and '.' not in s:
-		return True
-    #Otherwise, there isn't a win state in the game, 
+    #Check if there is a row with full with same characters,
+    #the game is over and the player with that character has won
+    for i in range(N):
+        s = set()
+        for j in range(N):
+            s |= {grid[i][j]}
+        if len(s) == 1 and '.' not in s:
+            return True
+    #Check if there is a column with full with same characters,
+    #the game is over and the player with that character has won
+    for i in range(N):
+        s = set()
+        for j in range(N):
+            s |= {grid[j][i]}
+        if len(s) == 1 and '.' not in s:
+            return True
+    #Check if the left diagonal is full with same characters,
+    #the game is over and the player with that character has won
+    s = set()
+    for i in range(N):
+        s |= {grid[i][i]}
+    if len(s) == 1 and '.' not in s:
+        return True
+    #Check if the right diagonal is full with same characters,
+    #the game is over and the player with that character has won
+    s = set()
+    for i in range(N):
+        s |= {grid[i][N-i-1]}
+    if len(s) == 1 and '.' not in s:
+        return True
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
-	return False
+    return False
 
 #This function checks if the game has a tie state or not for the given mark
 def check_tie_player(mark):
@@ -79,7 +79,7 @@ def check_tie_player(mark):
         s |= {grid[i][N-i-1]}
     if '.' in s and len(s) == 2:
         return False
-    #Otherwise, there isn't a win state in the game, 
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
     return True
 
@@ -91,22 +91,22 @@ def check_tie():
             all_tie = False
     return all_tie
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == '.'
+    return grid[i][j] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < N
+    return 0 <= i < N and 0 <= j < N
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[i][j] = mark
+    grid[i][j] = mark
 
 #This function clears the game structures
 def grid_clear():
-	global grid
-	grid = [['.'] * N for i in range(N)]
+    global grid
+    grid = [['.'] * N for i in range(N)]
 
 #This function reads a valid position input
 def read_input():
@@ -143,14 +143,14 @@ def play_game():
             print_grid()
             #Announcement of the final statement
             print("Woah! That's a tie!")
-            break		
+            break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

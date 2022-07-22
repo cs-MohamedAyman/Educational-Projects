@@ -18,7 +18,7 @@ def print_grid():
         print()
         print('-' * (4 * M + M + 1))
 
-#This function checks if the game state reachs the win state or not 
+#This function checks if the game state reachs the win state or not
 def check_win():
     for i in range(N):
         for j in range(M):
@@ -37,9 +37,9 @@ def generate_grid():
                 b = random.randint(0, M-1)
             grid[a][b] = i
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
 #This function checks if the given cells are identical cells or not
 def check_identical_cells(i1, j1, i2, j2):

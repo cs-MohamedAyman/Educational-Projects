@@ -10,13 +10,13 @@ char grid[N][M];
 
 //This function prints the grid of Gomoku as the game progresses
 void print_grid() {
-	for (int i = 0; i< n_players; i++) {
+    for (int i = 0; i< n_players; i++) {
         cout << "Player " << i+1 << ": " << marks[i] << "  ";
         if (i < n_players-1)
             cout << "vs  ";
-	}
-	cout << "\n";
-	cout << "--";
+    }
+    cout << "\n";
+    cout << "--";
     for (int i = 0; i < M; cout << "---", i++);
     cout << "--\n";
     for (int i = 0; i < N; i++) {
@@ -45,11 +45,11 @@ bool check_tie() {
             all_tie = false;
     return all_tie;
 }
-//This function checks if given cell is empty or not 
+//This function checks if given cell is empty or not
 bool check_empty(int i, int j) {
 
 }
-//This function checks if given position is valid or not 
+//This function checks if given position is valid or not
 bool check_valid_position(int i, int j) {
 
 }
@@ -82,7 +82,7 @@ void play_game() {
         //Read an input from the player
         cout << "Player " << marks[player] << " is playing now\n";
         int i, j;
-		read_input(i, j);
+        read_input(i, j);
         //Set the input position with the mark
         set_cell(i, j, marks[player]);
         //Check if the state of the grid has a win state
@@ -107,12 +107,12 @@ void play_game() {
 }
 int main() {
     while (true) {
-    	grid_clear();
-    	play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
+        grid_clear();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
     }
 }

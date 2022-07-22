@@ -65,13 +65,13 @@ def print_grid():
         print('Player %c in %d'% (marks[i], player_position[i]))
     print('-' * max_cell_width * M + '-')
 
-#This function checks if the given player reach the end of the game or not 
+#This function checks if the given player reach the end of the game or not
 def check_win(player):
     return player_position[player] >= N * M
 
 #This function generate a random dice face
 def generate_dice_face():
-	return random.randint(1, 6)
+    return random.randint(1, 6)
 
 #This function prints the given dice face
 def print_dice_face(i):
@@ -108,9 +108,9 @@ def print_dice_face(i):
         s += '|*___*|\n'
     return s
 
-#This function checks if given face is valid or not 
+#This function checks if given face is valid or not
 def check_valid_face(i):
-	return i.lower() in 'abcdef'
+    return i.lower() in 'abcdef'
 
 #This function moves the given player by the given value
 def move_player(player, moves):
@@ -148,7 +148,7 @@ def get_ladder_plus_value(p):
         if p == p1:
             return p2 - p1
     return 0
-    
+
 #This function gets the minus value of the given position
 def get_snake_minus_value(p):
     for p1, p2 in snakes:

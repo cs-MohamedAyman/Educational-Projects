@@ -23,7 +23,7 @@ def print_grid():
 #This function checks if the game has a win state or not
 def check_win():
     #Check if there is an accepted row
-	#the game is over and the player with that character has won
+    #the game is over and the player with that character has won
     for i in range(N):
         for j in range(M-a_row+1):
             s = set()
@@ -66,7 +66,7 @@ def check_win():
                 s |= {grid[i+k][j-k]}
             if len(s) == 1 and '.' not in s:
                 return True
-    #Otherwise, there isn't a win state in the game, 
+    #Otherwise, there isn't a win state in the game,
     #if all cases above not reached
     return False
 
@@ -112,7 +112,7 @@ def check_tie_player(mark):
                 s |= {grid[i+k][j-k]}
             if len(s) == 2 and '.' in s:
                 return False
-    #Otherwise, there isn't a tie state in the game, 
+    #Otherwise, there isn't a tie state in the game,
     #if all cases above not reached
     return True
 
@@ -124,22 +124,22 @@ def check_tie():
             all_tie = False
     return all_tie
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == '.'
+    return grid[i][j] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[i][j] = mark
+    grid[i][j] = mark
 
 #This function clears the game structures
 def grid_clear():
-	global grid
-	grid = [['.'] * M for i in range(N)]
+    global grid
+    grid = [['.'] * M for i in range(N)]
 
 #This function reads a valid position input
 def read_input():
@@ -176,14 +176,14 @@ def play_game():
             print_grid()
             #Announcement of the final statement
             print("Woah! That's a tie!")
-            break		
+            break
         #Player number changes after each turn
         player = (player + 1) % n_players
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

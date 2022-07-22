@@ -32,15 +32,15 @@ def print_grid():
 def check_full():
     pass
 
-#This function checks if the given side is empty or not 
+#This function checks if the given side is empty or not
 def check_empty_side(i1, j1, i2, j2):
     pass
 
-#This function checks if the given position is valid in the grid or not 
+#This function checks if the given position is valid in the grid or not
 def check_valid_position(i, j):
     pass
 
-#This function checks if given side is valid or not 
+#This function checks if given side is valid or not
 def check_valid_side(i1, j1, i2, j2):
     pass
 
@@ -105,8 +105,8 @@ def play_game():
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

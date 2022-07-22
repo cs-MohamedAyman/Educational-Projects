@@ -64,25 +64,25 @@ def check_complete():
                 s += grid[i+k][j-k]
             if s in possible_cases:
                 return False
-    #Otherwise, there isn't a tie state in the game, 
+    #Otherwise, there isn't a tie state in the game,
     #if all cases above not reached
     return True
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == '.'
+    return grid[i][j] == '.'
 
-#This function checks if given char is valid or not 
+#This function checks if given char is valid or not
 def check_mark(c):
-	return c in chars
+    return c in chars
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[i][j] = mark
+    grid[i][j] = mark
 
 #This function updates the number of complete words of the given player
 def update_num_complete_words(i, j, player):
@@ -90,56 +90,56 @@ def update_num_complete_words(i, j, player):
     res = False
     if grid[i][j] == char_O:
         if check_valid_position(i, j-1) and grid[i][j-1] == char_S and \
-           check_valid_position(i, j+1) and grid[i][j+1] == char_S: 
+           check_valid_position(i, j+1) and grid[i][j+1] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j) and grid[i-1][j] == char_S and \
-           check_valid_position(i+1, j) and grid[i+1][j] == char_S: 
+           check_valid_position(i+1, j) and grid[i+1][j] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j-1) and grid[i-1][j-1] == char_S and \
-           check_valid_position(i+1, j+1) and grid[i+1][j+1] == char_S: 
+           check_valid_position(i+1, j+1) and grid[i+1][j+1] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j+1) and grid[i-1][j+1] == char_S and \
-           check_valid_position(i+1, j-1) and grid[i+1][j-1] == char_S: 
+           check_valid_position(i+1, j-1) and grid[i+1][j-1] == char_S:
             count_wins[player] += 1
             res = True
     else:
         if check_valid_position(i, j+1) and grid[i][j+1] == char_O and \
-           check_valid_position(i, j+2) and grid[i][j+2] == char_S: 
+           check_valid_position(i, j+2) and grid[i][j+2] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i, j-1) and grid[i][j-1] == char_O and \
-           check_valid_position(i, j-2) and grid[i][j-2] == char_S: 
+           check_valid_position(i, j-2) and grid[i][j-2] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i+1, j) and grid[i+1][j] == char_O and \
-           check_valid_position(i+2, j) and grid[i+2][j] == char_S: 
+           check_valid_position(i+2, j) and grid[i+2][j] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j) and grid[i-1][j] == char_O and \
-           check_valid_position(i-2, j) and grid[i-2][j] == char_S: 
+           check_valid_position(i-2, j) and grid[i-2][j] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i+1, j+1) and grid[i+1][j+1] == char_O and \
-           check_valid_position(i+2, j+2) and grid[i+2][j+2] == char_S: 
+           check_valid_position(i+2, j+2) and grid[i+2][j+2] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j-1) and grid[i-1][j-1] == char_O and \
-           check_valid_position(i-2, j-2) and grid[i-2][j-2] == char_S: 
+           check_valid_position(i-2, j-2) and grid[i-2][j-2] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i-1, j+1) and grid[i-1][j+1] == char_O and \
-           check_valid_position(i-2, j+2) and grid[i-2][j+2] == char_S: 
+           check_valid_position(i-2, j+2) and grid[i-2][j+2] == char_S:
             count_wins[player] += 1
             res = True
         if check_valid_position(i+1, j-1) and grid[i+1][j-1] == char_O and \
-           check_valid_position(i+2, j-2) and grid[i+2][j-2] == char_S: 
+           check_valid_position(i+2, j-2) and grid[i+2][j-2] == char_S:
             count_wins[player] += 1
             res = True
     return res
-    
+
 #This function clears the game structures
 def grid_clear():
     global grid, count_wins
@@ -186,12 +186,12 @@ def play_game():
         #Keep the player if there is a complete word
         if not word_complete:
             #Player number changes after each turn
-            player = 1 - player 
+            player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

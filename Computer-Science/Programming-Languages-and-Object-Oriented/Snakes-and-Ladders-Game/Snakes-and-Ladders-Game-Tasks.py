@@ -53,7 +53,7 @@ def print_grid():
         print('Player %c in %d'% (marks[i], player_position[i]))
     print('-' * max_cell_width * M + '-')
 
-#This function checks if the given player reach the end of the game or not 
+#This function checks if the given player reach the end of the game or not
 def check_win(player):
     pass
 
@@ -96,7 +96,7 @@ def print_dice_face(i):
         s += '|*___*|\n'
     return s
 
-#This function checks if given face is valid or not 
+#This function checks if given face is valid or not
 def check_valid_face(i):
     pass
 

@@ -38,11 +38,11 @@ bool check_tie() {
             all_tie = false;
     return all_tie;
 }
-//This function checks if given cell is empty or not 
+//This function checks if given cell is empty or not
 bool check_empty(int i, int j) {
 
 }
-//This function checks if given position is valid or not 
+//This function checks if given position is valid or not
 bool check_valid_position(int i, int j) {
 
 }
@@ -56,12 +56,12 @@ void grid_clear() {
 }
 //This function reads a valid position input
 void read_input(int &i, int &j) {
-	cout << "Enter the row index and column index: ";
-	cin >> i >> j;
+    cout << "Enter the row index and column index: ";
+    cin >> i >> j;
     while (!check_valid_position(i, j) || !check_empty(i, j)) {
-		cout << "Enter a valid row index and a valid column index: ";
-		cin >> i >> j;
-	}
+        cout << "Enter a valid row index and a valid column index: ";
+        cin >> i >> j;
+    }
 }
 //MAIN FUNCTION
 void play_game() {
@@ -75,14 +75,14 @@ void play_game() {
         //Read an input position from the player
         cout << "Player " << marks[player] << " is playing now\n";
         int i, j;
-		read_input(i, j);
+        read_input(i, j);
         //Set the player mark in the input position
         set_cell(i, j, marks[player]);
         //Check if the grid has a win state
         if (check_win()) {
             //Prints the grid
             print_grid();
-			//Announcement of the final statement
+            //Announcement of the final statement
             cout << "Congrats, Player " << marks[player] << " is won!\n";
             break;
         }
@@ -90,7 +90,7 @@ void play_game() {
         if (check_tie()) {
             //Prints the grid
             print_grid();
-			//Announcement of the final statement
+            //Announcement of the final statement
             cout << "Woah! That's a tie!\n";
             break;
         }
@@ -100,12 +100,12 @@ void play_game() {
 }
 int main() {
     while (true) {
-    	grid_clear();
-    	play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
+        grid_clear();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
     }
 }

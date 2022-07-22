@@ -32,26 +32,26 @@ def print_grid():
 def check_full():
     return sum(count_boxes) == (N-1) * (M-1)
 
-#This function checks if given horizontal side is empty or not 
+#This function checks if given horizontal side is empty or not
 def check_empty_horizontal_side(i, j):
-	return horizontal_grid[i][j] == 0
+    return horizontal_grid[i][j] == 0
 
-#This function checks if given vertical side is empty or not 
+#This function checks if given vertical side is empty or not
 def check_empty_vertical_side(i, j):
-	return vertical_grid[i][j] == 0
+    return vertical_grid[i][j] == 0
 
-#This function checks if the given side is empty or not 
+#This function checks if the given side is empty or not
 def check_empty_side(i1, j1, i2, j2):
-    if i1 == i2: 
+    if i1 == i2:
         return check_empty_horizontal_side(i1, j1)
-    if j1 == j2: 
+    if j1 == j2:
         return check_empty_vertical_side(i1, j1)
 
-#This function checks if the given position is valid in the grid or not 
+#This function checks if the given position is valid in the grid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
-#This function checks if given side is valid or not 
+#This function checks if given side is valid or not
 def check_valid_side(i1, j1, i2, j2):
     return abs(i1 - i2) + abs(j1 - j2) == 1 and \
            check_valid_position(i1, j1) and \
@@ -59,17 +59,17 @@ def check_valid_side(i1, j1, i2, j2):
 
 #This function sets a horizontal side
 def set_horizontal_side(i, j):
-	horizontal_grid[i][j] = 1
+    horizontal_grid[i][j] = 1
 
 #This function sets a vertical side
 def set_vertical_side(i, j):
-	vertical_grid[i][j] = 1
+    vertical_grid[i][j] = 1
 
 #This function sets the given side
 def set_side(i1, j1, i2, j2):
-    if i1 == i2: 
+    if i1 == i2:
         set_horizontal_side(i1, j1)
-    if j1 == j2: 
+    if j1 == j2:
         set_vertical_side(i1, j1)
 
 #This function checks if the given box is complete or not
@@ -93,10 +93,10 @@ def set_neighbor_box(i1, j1, i2, j2, player):
 #This function checks and sets the neighbor completed boxes
 def set_neighbor_boxes(i1, j1, i2, j2, player):
     get_boxes = 0
-    if i1 == i2: 
+    if i1 == i2:
         get_boxes |= set_neighbor_box(i1, j1, i2, j2, player)
         get_boxes |= set_neighbor_box(i1-1, j1, i2-1, j2, player)
-    if j1 == j2: 
+    if j1 == j2:
         get_boxes |= set_neighbor_box(i1, j1, i2, j2, player)
         get_boxes |= set_neighbor_box(i1, j1-1, i2, j2-1, player)
     return get_boxes
@@ -158,8 +158,8 @@ def play_game():
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

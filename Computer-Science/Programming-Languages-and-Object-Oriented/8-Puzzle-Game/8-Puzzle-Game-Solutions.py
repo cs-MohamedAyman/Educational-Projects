@@ -29,7 +29,7 @@ def generate_grid():
             b = random.randint(0, N-1)
         grid[a][b] = i
 
-#This function checks if the game state reachs the win state or not 
+#This function checks if the game state reachs the win state or not
 def check_win():
     idx = 1
     for i in range(N):
@@ -39,13 +39,13 @@ def check_win():
             idx += 1
     return True
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == 0
+    return grid[i][j] == 0
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < N
+    return 0 <= i < N and 0 <= j < N
 
 #This function checks if the given position has a movement state or not
 def check_available_move(i, j):
@@ -56,19 +56,19 @@ def check_available_move(i, j):
 
 #This function moves the position with the empty cell
 def move(i, j):
-    if check_valid_position(i-1, j) and check_empty(i-1, j): 
+    if check_valid_position(i-1, j) and check_empty(i-1, j):
         grid[i][j], grid[i-1][j] = grid[i-1][j], grid[i][j]
-    elif check_valid_position(i+1, j) and check_empty(i+1, j): 
+    elif check_valid_position(i+1, j) and check_empty(i+1, j):
         grid[i][j], grid[i+1][j] = grid[i+1][j], grid[i][j]
-    elif check_valid_position(i, j-1) and check_empty(i, j-1): 
+    elif check_valid_position(i, j-1) and check_empty(i, j-1):
         grid[i][j], grid[i][j-1] = grid[i][j-1], grid[i][j]
-    elif check_valid_position(i, j+1) and check_empty(i, j+1): 
+    elif check_valid_position(i, j+1) and check_empty(i, j+1):
         grid[i][j], grid[i][j+1] = grid[i][j+1], grid[i][j]
 
 #This function clears the game structures
 def grid_clear():
-	global grid
-	grid = [[0] * N for i in range(N)]
+    global grid
+    grid = [[0] * N for i in range(N)]
 
 #This function reads a valid position
 def read_input():

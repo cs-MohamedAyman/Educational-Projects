@@ -25,15 +25,15 @@ def print_grid():
 def check_complete():
     pass
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
     pass
 
-#This function checks if given char is valid or not 
+#This function checks if given char is valid or not
 def check_mark(c):
     pass
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
@@ -44,7 +44,7 @@ def set_cell(i, j, mark):
 #This function updates the number of complete words of the given player
 def update_num_complete_words(i, j, player):
     pass
-    
+
 #This function clears the game structures
 def grid_clear():
     pass
@@ -89,12 +89,12 @@ def play_game():
         #Keep the player if there is a complete word
         if not word_complete:
             #Player number changes after each turn
-            player = 1 - player 
+            player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

@@ -35,12 +35,12 @@ def check_tie():
         if not check_tie_player(marks[i]):
             all_tie = False
     return all_tie
-	
-#This function checks if given cell is empty or not 
+
+#This function checks if given cell is empty or not
 def check_empty(i, j):
     pass
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
@@ -87,14 +87,14 @@ def play_game():
             print_grid()
             #Announcement of the final statement
             print("Woah! That's a tie!")
-            break		
+            break
         #Player number changes after each turn
         player = (player + 1) % n_players
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

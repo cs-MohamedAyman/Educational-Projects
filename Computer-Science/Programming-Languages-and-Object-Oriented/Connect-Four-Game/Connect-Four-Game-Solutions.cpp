@@ -9,13 +9,13 @@ char grid[N][M];
 
 //This function prints the grid of Connect Four Game as the game progresses
 void print_grid() {
-	for (int i = 0; i< n_players; i++) {
+    for (int i = 0; i< n_players; i++) {
         cout << "Player " << i+1 << ": " << marks[i] << "  ";
         if (i < n_players-1)
             cout << "vs  ";
-	}
-	cout << "\n";
-	cout << "--";
+    }
+    cout << "\n";
+    cout << "--";
     for (int i = 0; i < M; cout << "---", i++);
     cout << "--\n";
     for (int i = 0; i < N; i++) {
@@ -32,7 +32,7 @@ void print_grid() {
 bool check_win() {
     char s;
     //Check if there is an accepted row
-	//the game is over and the player with that character has won
+    //the game is over and the player with that character has won
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M-3; j++) {
             s = grid[i][j];
@@ -67,7 +67,7 @@ bool check_win() {
                 return true;
         }
     }
-    //Otherwise, there isn't a win state in the game, 
+    //Otherwise, there isn't a win state in the game,
     //if all cases above not reached
     return false;
 }
@@ -77,9 +77,9 @@ bool check_tie_player(char mark) {
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M-3; j++) {
             if ((grid[i][j]   == mark || grid[i][j]   == '.') &&
-				(grid[i][j+1] == mark || grid[i][j+1] == '.') && 
-				(grid[i][j+2] == mark || grid[i][j+2] == '.') && 
-				(grid[i][j+3] == mark || grid[i][j+3] == '.'))
+                (grid[i][j+1] == mark || grid[i][j+1] == '.') &&
+                (grid[i][j+2] == mark || grid[i][j+2] == '.') &&
+                (grid[i][j+3] == mark || grid[i][j+3] == '.'))
                 return false;
         }
     }
@@ -87,9 +87,9 @@ bool check_tie_player(char mark) {
     for (int i = 0; i < N-3; i++) {
         for (int j = 0; j < M; j++) {
             if ((grid[j][i]   == mark || grid[j][i]   == '.') &&
-				(grid[j+1][i] == mark || grid[j+1][i] == '.') && 
-				(grid[j+2][i] == mark || grid[j+2][i] == '.') && 
-				(grid[j+3][i] == mark || grid[j+3][i] == '.'))
+                (grid[j+1][i] == mark || grid[j+1][i] == '.') &&
+                (grid[j+2][i] == mark || grid[j+2][i] == '.') &&
+                (grid[j+3][i] == mark || grid[j+3][i] == '.'))
                 return false;
         }
     }
@@ -97,9 +97,9 @@ bool check_tie_player(char mark) {
     for (int i = 0; i < N-3; i++) {
         for (int j = 0; j < M-3; j++) {
             if ((grid[i][j]     == mark || grid[i][j]     == '.') &&
-				(grid[i+1][j+1] == mark || grid[i+1][j+1] == '.') && 
-				(grid[i+2][j+2] == mark || grid[i+2][j+2] == '.') && 
-				(grid[i+3][j+3] == mark || grid[i+3][j+3] == '.'))
+                (grid[i+1][j+1] == mark || grid[i+1][j+1] == '.') &&
+                (grid[i+2][j+2] == mark || grid[i+2][j+2] == '.') &&
+                (grid[i+3][j+3] == mark || grid[i+3][j+3] == '.'))
                 return false;
         }
     }
@@ -107,13 +107,13 @@ bool check_tie_player(char mark) {
     for (int i = 0; i < N-3; i++) {
         for (int j = 3; j < M; j++) {
             if ((grid[i][j]     == mark || grid[i][j]     == '.') &&
-				(grid[i+1][j-1] == mark || grid[i+1][j-1] == '.') && 
-				(grid[i+2][j-2] == mark || grid[i+2][j-2] == '.') && 
-				(grid[i+3][j-3] == mark || grid[i+3][j-3] == '.'))
+                (grid[i+1][j-1] == mark || grid[i+1][j-1] == '.') &&
+                (grid[i+2][j-2] == mark || grid[i+2][j-2] == '.') &&
+                (grid[i+3][j-3] == mark || grid[i+3][j-3] == '.'))
                 return false;
         }
     }
-    //Otherwise, there isn't a tie state in the game, 
+    //Otherwise, there isn't a tie state in the game,
     //if all cases above not reached
     return true;
 }
@@ -125,21 +125,21 @@ bool check_tie() {
             all_tie = false;
     return all_tie;
 }
-//This function checks if given cell is empty or not 
+//This function checks if given cell is empty or not
 bool check_empty(int i) {
-	return grid[0][i] == '.';
+    return grid[0][i] == '.';
 }
-//This function checks if given position is valid or not 
+//This function checks if given position is valid or not
 bool check_valid_column(int i) {
-	return 0 <= i && i < M;
+    return 0 <= i && i < M;
 }
 //This function sets the given mark to the given column
 void set_cell(int i, char mark) {
     for (int j = N-1; j > -1; j--) {
-		if (grid[j][i] == '.') {
-			grid[j][i] = mark;
-			break;
-		}
+        if (grid[j][i] == '.') {
+            grid[j][i] = mark;
+            break;
+        }
     }
 }
 //This function clears the game structures
@@ -169,7 +169,7 @@ void play_game() {
         //Read an input from the player
         cout << "Player " << marks[player] << " is playing now\n";
         int i;
-		read_input(i);
+        read_input(i);
         //Set the input position with the mark
         set_cell(i, marks[player]);
         //Check if the state of the grid has a win state
@@ -194,12 +194,12 @@ void play_game() {
 }
 int main() {
     while (true) {
-    	grid_clear();
-    	play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
+        grid_clear();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
     }
 }

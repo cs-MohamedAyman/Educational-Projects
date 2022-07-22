@@ -6,7 +6,7 @@ const int N = root_N * root_N;
 int grid[N][N];
 int cpy_grid[N][N];
 const char symbols[17] = {'.', '1', '2', '3', '4', '5', '6', '7',
-						  '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G'};
+                          '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G'};
 
 //This function prints the grid of Sudoku Game as the game progresses
 void print_grid() {
@@ -15,24 +15,24 @@ void print_grid() {
     cout << "-\n";
     for (int i = 0; i < N; i++) {
         cout << "|  ";
-		for (int j = 0; j < N; j++) {
+        for (int j = 0; j < N; j++) {
             if (j % root_N == 0 && j > 0)
                 cout << "|  ";
-			cout << symbols[grid[i][j]] << "  ";
-		}
-		cout << "|\n";
+            cout << symbols[grid[i][j]] << "  ";
+        }
+        cout << "|\n";
         if (i % root_N == root_N - 1) {
-			for (int i = 0; i < N*3; cout << "-", i++);
-			for (int i = 0; i < root_N; cout << "---", i++);
-			cout << "-\n";
-		}
-	}
+            for (int i = 0; i < N*3; cout << "-", i++);
+            for (int i = 0; i < root_N; cout << "---", i++);
+            cout << "-\n";
+        }
+    }
 }
 //This function checks if the game has a win state or not
 bool check_win() {
 
 }
-//This function checks if the given position is valid or not 
+//This function checks if the given position is valid or not
 bool check_valid_position(int i, int j) {
 
 }
@@ -53,7 +53,7 @@ bool solve_grid(int i, int j) {
     if (j == N) {
         i += 1;
         j = 0;
-	}
+    }
     if (i == N)
         return true;
     if (check_original_cell(i, j))
@@ -64,44 +64,44 @@ bool solve_grid(int i, int j) {
             cpy_grid[i][j] = k;
             if (solve_grid(i, j+1))
                 return true;
-		}
+        }
         grid[i][j] = 0;
         cpy_grid[i][j] = 0;
-	}
+    }
     return false;
 }
 //This function generates cells in the grid
 void generate_cells() {
     //Generate cells in the diagonal boxes of the grid
     for (int k = 0; k < N; k+=root_N) {
-		for (int i = 0; i < root_N; i++) {
-			for (int j = 0; j < root_N; j++) {
+        for (int i = 0; i < root_N; i++) {
+            for (int j = 0; j < root_N; j++) {
                 int n = rand() % N + 1;
-                while (!check_valid_value(k+i, k+j, n) || 
-					   check_original_cell(k+i, k+j))
-					n = rand() % N + 1;
+                while (!check_valid_value(k+i, k+j, n) ||
+                       check_original_cell(k+i, k+j))
+                    n = rand() % N + 1;
                 grid[k+i][k+j] = n;
                 cpy_grid[k+i][k+j] = n;
-			}
-		}
-	}
+            }
+        }
+    }
 }
 //This function removes cells in the grid
 void remove_cells() {
     for (int k = 0; k < (N+1)/2; k++) {
         for (int i = 0; i < N; i+=root_N) {
-			for (int j = 0; j < N; j+=root_N) {
+            for (int j = 0; j < N; j+=root_N) {
                 int t1 = rand() % root_N;
                 int t2 = rand() % root_N;
                 while (!check_original_cell(i+t1, j+t2)) {
-					t1 = rand() % root_N;
-					t2 = rand() % root_N;
-				}
+                    t1 = rand() % root_N;
+                    t2 = rand() % root_N;
+                }
                 grid[i+t1][j+t2] = 0;
                 cpy_grid[i+t1][j+t2] = 0;
-			}
-		}
-	}
+            }
+        }
+    }
 }
 //This function generates cells in the given grid
 void generate_grid() {
@@ -118,12 +118,12 @@ void grid_clear() {
 }
 //This function reads a valid position and value inputs
 void read_input(int &i, int &j, int &v) {
-	cout << "Enter the row index and column index and value: ";
-	cin >> i >> j >> v;
+    cout << "Enter the row index and column index and value: ";
+    cin >> i >> j >> v;
     while (!check_valid_position(i, j) || !check_valid_value(i, j, v) || check_original_cell(i, j)) {
-		cout << "Enter a valid row index and column index and value: ";
-		cin >> i >> j >> v;
-	}
+        cout << "Enter a valid row index and column index and value: ";
+        cin >> i >> j >> v;
+    }
 }
 //MAIN FUNCTION
 void play_game() {
@@ -134,7 +134,7 @@ void play_game() {
         //Prints the grid
         print_grid();
         //Read an input from the player
-		int i, j, v;
+        int i, j, v;
         read_input(i, j, v);
         //Set the input position with the value
         set_cell(i, j, v);
@@ -142,21 +142,21 @@ void play_game() {
         if (check_win()) {
             //Prints the grid
             print_grid();
-			//Announcement of the final statement
+            //Announcement of the final statement
             cout << "Congrats, You won!\n";
             break;
-		}
-	}
+        }
+    }
 }
 int main() {
-	while (true) {
-		grid_clear();
-		generate_grid();
-		play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
-	}
+    while (true) {
+        grid_clear();
+        generate_grid();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
+    }
 }

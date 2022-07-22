@@ -25,7 +25,7 @@ void print_grid() {
         for (int i = 0; i < M; cout << "---", i++);
         cout << "--\n";
     }
-	for (int i = 0; i< n_players; i++)
+    for (int i = 0; i< n_players; i++)
         cout << "Player " << marks[i] << " is " << count_cells[i] << "\n";
     cout << "--";
     for (int i = 0; i < M; cout << "---", i++);
@@ -39,15 +39,15 @@ bool check_full() {
 bool check_player_ability() {
 
 }
-//This function checks if given cell is chosen or not 
+//This function checks if given cell is chosen or not
 bool check_chosen(int i, int j) {
 
 }
-//This function checks if given cell is empty or not 
+//This function checks if given cell is empty or not
 bool check_empty(int i, int j) {
 
 }
-//This function checks if given position is valid or not 
+//This function checks if given position is valid or not
 bool check_valid_position(int i, int j) {
 
 }
@@ -62,32 +62,32 @@ void get_most_cell(int i, int j, int dx, int dy, bool player, char target_mark, 
         i += dx;
         j += dy;
         cnt ++;
-	}
+    }
     if (check_valid_position(i, j) && grid[i][j] == target_mark && cnt > 0)
-		most_i = i, most_j = j;
-	else
-		most_i = -1, most_j = -1;	
+        most_i = i, most_j = j;
+    else
+        most_i = -1, most_j = -1;
 }
 //This function gets the most cells in the all directions
 void get_most_cells(int i, int j, bool player, char target_mark, int most_cells[N*M][2]) {
-	int idx = 0;
+    int idx = 0;
     int dirs[8][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {-1, -1}, {1, -1}, {-1, 1}};
-	for (int k = 0; k < 8; k++) {
-		int dx = dirs[k][0], dy = dirs[k][1];
+    for (int k = 0; k < 8; k++) {
+        int dx = dirs[k][0], dy = dirs[k][1];
         int most_i, most_j;
-		get_most_cell(i+dx, j+dy, dx, dy, player, target_mark, most_i, most_j);
+        get_most_cell(i+dx, j+dy, dx, dy, player, target_mark, most_i, most_j);
         if (most_i == -1 && most_j == -1)
             continue;
         most_cells[idx][0] = most_i, most_cells[idx][1] = most_j;
-		idx ++;
-	}
+        idx ++;
+    }
     most_cells[idx][0] = -1, most_cells[idx][1] = -1;
 }
 //This function switches the neighbor cells of the given cell
 void switch_cells(int i, int j, bool player) {
 
 }
-//This function generates the possible cells to be chosen 
+//This function generates the possible cells to be chosen
 void generate_possible_cells(bool player) {
 
 }
@@ -108,9 +108,9 @@ void read_input(int &i, int &j) {
     cout << "Enter the row index and column index: ";
     cin >> i >> j;
     while (!check_valid_position(i, j) || !check_empty(i, j) || !check_chosen(i, j)) {
-		cout << "Enter a valid two points of the side: ";
-		cin >> i >> j;
-	}
+        cout << "Enter a valid two points of the side: ";
+        cin >> i >> j;
+    }
 }
 //MAIN FUNCTION
 void play_game() {
@@ -119,7 +119,7 @@ void play_game() {
     cout << "============================\n";
     bool player = 0;
     while (true) {
-        //Generate the possible cells to be chosen 
+        //Generate the possible cells to be chosen
         generate_possible_cells(player);
         //Mark the possible cells
         mark_possible_cells();
@@ -132,12 +132,12 @@ void play_game() {
         if (!check_player_ability()) {
             cout << "Sorry, you can not play on this turn!\n";
             //Player number changes after each turn
-            player = 1 - player; 
+            player = 1 - player;
             continue;
-		}
+        }
         //Read an input position from the player
         int i, j;
-		read_input(i, j);
+        read_input(i, j);
         //Set the player mark in the input position
         set_cell(i, j, marks[player]);
         //Switch the neighbor cells of the given cell
@@ -147,27 +147,27 @@ void play_game() {
             //Prints the grid
             print_grid();
             //Announcement of the final statement
-			int max_count_boxes = *max_element(count_cells, count_cells+n_players);
+            int max_count_boxes = *max_element(count_cells, count_cells+n_players);
             if (count(count_cells, count_cells+n_players, max_count_boxes) == 1) {
-				int idx_max_player = find(count_cells, count_cells+n_players, max_count_boxes) - count_cells;
+                int idx_max_player = find(count_cells, count_cells+n_players, max_count_boxes) - count_cells;
                 cout << "Congrats, Player " << marks[idx_max_player] << " is won!\n";
-			}
+            }
             else
                 cout << "Woah! That's a tie!\n";
             break;
-		}
+        }
         //Player number changes after each turn
         player = 1 - player;
     }
 }
 int main() {
-	while (true) {
-		grid_clear();
-		play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
-	}
+    while (true) {
+        grid_clear();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
+    }
 }

@@ -27,21 +27,21 @@ def check_win():
 def check_player_ability():
     return len(possible_cells) != 0
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[i][j] == '.'
+    return grid[i][j] == '.'
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
-#This function checks if given cell is chosen or not 
+#This function checks if given cell is chosen or not
 def check_chosen(i1, j1, i2, j2):
     return (i1, j1, i2, j2) in possible_cells
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[i][j] = mark
+    grid[i][j] = mark
 
 #This function moves the given player form the source cell to the target cell
 def move_cell(i1, j1, i2, j2, player):
@@ -92,7 +92,7 @@ def generate_possible_cells_defence_case(player):
                 if is_king[i][j] and check_valid_position(i+k1, j+k2) and check_empty(i+k1, j+k2):
                     possible_cells += [(i, j, i+k1, j+k2)]
 
-#This function generates the possible cells to be chosen 
+#This function generates the possible cells to be chosen
 def generate_possible_cells(player):
     global possible_cells
     possible_cells = []
@@ -152,7 +152,7 @@ def play_game():
     print("============================")
     player = 0
     while True:
-        #Generate the possible cells to be chosen 
+        #Generate the possible cells to be chosen
         generate_possible_cells(player)
         #Mark the possible cells
         mark_possible_cells()
@@ -176,12 +176,12 @@ def play_game():
             print('Congrats, Player %s is won!' % marks[0][player])
             break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

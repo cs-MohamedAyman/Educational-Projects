@@ -28,29 +28,29 @@ def check_win():
                 return False
     return True
 
-#This function checks if given cell is empty or not 
+#This function checks if given cell is empty or not
 def check_empty(i, j):
-	return grid[1-player][i][j] == '.'
+    return grid[1-player][i][j] == '.'
 
-#This function checks if given cell is sunken or not 
+#This function checks if given cell is sunken or not
 def check_sunken(i, j):
-	return grid[1-player][i][j] == sunken_cell
+    return grid[1-player][i][j] == sunken_cell
 
-#This function checks if given cell is damaged or not 
+#This function checks if given cell is damaged or not
 def check_damaged(i, j):
-	return grid[1-player][i][j] == true_hit
+    return grid[1-player][i][j] == true_hit
 
-#This function checks if given cell is used or not 
+#This function checks if given cell is used or not
 def check_used(i, j):
-	return grid[1-player][i][j] == used_cell
+    return grid[1-player][i][j] == used_cell
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
-	return 0 <= i < N and 0 <= j < M
+    return 0 <= i < N and 0 <= j < M
 
 #This function sets the given mark to the given cell
 def set_cell(i, j, mark):
-	grid[1-player][i][j] = mark
+    grid[1-player][i][j] = mark
 
 #This function clears the game structures
 def grid_clear():
@@ -66,7 +66,7 @@ def read_input():
         i, j = map(int, input('Enter a valid row index and a valid column index: ').split())
     return i, j
 
-#This function checks if given side is valid or not 
+#This function checks if given side is valid or not
 def check_valid_side(length, i1, j1, i2, j2):
     return check_valid_position(i1, j1) and \
            check_valid_position(i2, j2) and \
@@ -77,7 +77,7 @@ def check_valid_side(length, i1, j1, i2, j2):
 def arrange_side_points(i1, j1, i2, j2):
     return min(i1, i2), min(j1, j2), max(i1, i2), max(j1, j2)
 
-#This function checks if the given side is empty or not 
+#This function checks if the given side is empty or not
 def check_empty_side(p, length, i1, j1, i2, j2):
     if i1 == i2:
         for k in range(length):
@@ -91,7 +91,7 @@ def check_empty_side(p, length, i1, j1, i2, j2):
         return True
     return False
 
-#This function checks if the given side is damaged or not 
+#This function checks if the given side is damaged or not
 def check_damaged_side(p, length, i1, j1, i2, j2):
     if i1 == i2:
         for k in range(length):
@@ -138,19 +138,19 @@ def read_input_segment(p, length):
 
 #This function sets the used cell to the given side
 def set_used_side(p, length, i1, j1, i2, j2):
-    if i1 == i2: 
+    if i1 == i2:
         for k in range(length):
             grid[p][i1][k+j1] = used_cell
-    if j1 == j2: 
+    if j1 == j2:
         for k in range(length):
             grid[p][k+i1][j1] = used_cell
 
 #This function reverts set the used cell to the given side
 def revert_set_used_side(p, length, i1, j1, i2, j2):
-    if i1 == i2: 
+    if i1 == i2:
         for k in range(length):
             grid[p][i1][k+j1] = '.'
-    if j1 == j2: 
+    if j1 == j2:
         for k in range(length):
             grid[p][k+i1][j1] = '.'
 
@@ -171,7 +171,7 @@ def play_game():
         hited = hit_cell(i, j)
         #Prints the grid
         print_grid(1-player)
-        if hited: 
+        if hited:
             print('The selected position has been destroyed successfully')
         else:
             print('The selected position was an empty position')
@@ -182,7 +182,7 @@ def play_game():
             break
         if not hited:
             #Player number changes after each turn
-            player = 1 - player 
+            player = 1 - player
 
 #This function sets the configuration of the given player
 def set_config(curr_player):

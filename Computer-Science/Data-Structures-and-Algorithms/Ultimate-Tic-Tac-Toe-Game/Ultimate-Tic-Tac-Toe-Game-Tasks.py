@@ -36,15 +36,15 @@ def cvt_box_to_small_grid_pos(x):
 
 #This function converts the given position in the big grid into a position index in the big grid
 def cvt_big_grid_pos_to_big_grid_pos(i, j):
-	box_idx = cvt_big_grid_pos_to_box(i, j)
-	i, j = cvt_box_to_big_grid_pos(box_idx)
-	return i, j
+    box_idx = cvt_big_grid_pos_to_box(i, j)
+    i, j = cvt_box_to_big_grid_pos(box_idx)
+    return i, j
 
 #This function converts the given position in the big grid into a position index in the small grid
 def cvt_big_grid_pos_to_small_grid_pos(i, j):
-	box_idx = cvt_big_grid_pos_to_box(i, j)
-	i, j = cvt_box_to_small_grid_pos(box_idx)
-	return i, j
+    box_idx = cvt_big_grid_pos_to_box(i, j)
+    i, j = cvt_box_to_small_grid_pos(box_idx)
+    return i, j
 
 #This function checks if the game has a win state or not
 def check_win(grid, r=0, c=0):
@@ -54,19 +54,19 @@ def check_win(grid, r=0, c=0):
 def check_tie(grid, mark, r=0, c=0):
     pass
 
-#This function checks if the given cell in the big grid is empty or not 
+#This function checks if the given cell in the big grid is empty or not
 def check_empty_in_big_grid(i, j):
     pass
 
-#This function checks if the given cell in the small grid is empty or not 
+#This function checks if the given cell in the small grid is empty or not
 def check_empty_in_small_grid(i, j):
     pass
 
-#This function checks if given position is valid or not 
+#This function checks if given position is valid or not
 def check_valid_position(i, j):
     pass
 
-#This function calculates the current selected box 
+#This function calculates the current selected box
 def set_next_box(i, j):
     pass
 
@@ -123,7 +123,7 @@ def play_game():
             #Announcement of the final statement in a box
             print('Woah! That's a tie in the box %s.' % curr_box)
             fill_box(i, j, '#')
-        #Calculate the next selected box 
+        #Calculate the next selected box
         set_next_box(i, j)
         #Check if the small grid has a win state
         if check_win(small_grid):
@@ -140,12 +140,12 @@ def play_game():
             print('Woah! That's a tie!')
             break
         #Player number changes after each turn
-        player = 1 - player 
+        player = 1 - player
 
 
 while True:
-	grid_clear()
-	play_game()
-	c = input('Play Again [Y/N] ')
-	if c not in 'yY':
-		break
+    grid_clear()
+    play_game()
+    c = input('Play Again [Y/N] ')
+    if c not in 'yY':
+        break

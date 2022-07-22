@@ -44,11 +44,11 @@ def check_win():
                     s.add(grid[k][w])
             if len(s) != N or 0 in s:
                 return False
-    #Otherwise, there is a win state in the game, 
-    #if all cases above not reached		
+    #Otherwise, there is a win state in the game,
+    #if all cases above not reached
     return True
 
-#This function checks if the given position is valid or not 
+#This function checks if the given position is valid or not
 def check_valid_position(i, j):
     return 0 <= i < N and 0 <= j < N
 
@@ -58,33 +58,33 @@ def check_original_cell(i, j):
 
 #This function checks if the given value is valid with the given cell
 def check_valid_value(i, j, v):
-	#Check delete case
+    #Check delete case
     if v == 0:
         return True
-	#Check invalid value
+    #Check invalid value
     if v < 1 or v > N:
         return False
-	#Check duplicate in all rows
+    #Check duplicate in all rows
     for k in range(N):
         if grid[i][k] == v:
             return False
-	#Check duplicate in all columns
+    #Check duplicate in all columns
     for k in range(N):
         if grid[k][j] == v:
             return False
-	#Check duplicate in all boxes
+    #Check duplicate in all boxes
     b, e = i//root_N*root_N, j//root_N*root_N
     for k in range(b, b+root_N):
         for w in range(e, e+root_N):
             if grid[k][w] == v:
                 return False
     #Otherwise, the given value is valid,
-    #if all cases above not reached		
+    #if all cases above not reached
     return True
 
 #This function sets the given value to the given cell
 def set_cell(i, j, v):
-	grid[i][j] = v
+    grid[i][j] = v
 
 #This function solves the grid
 def solve_grid(i, j):
@@ -133,7 +133,7 @@ def remove_cells():
 #This function generates cells in the given grid
 def generate_grid():
     #Generate cells in the grid
-    generate_cells()    
+    generate_cells()
     #Solve the complete grid
     solve_grid(0, 0)
     #Remove cells in the grid to be solved
@@ -141,9 +141,9 @@ def generate_grid():
 
 #This function clears the game structures
 def grid_clear():
-	global grid, cpy_grid
-	grid = [[0] * N for i in range(N)]
-	cpy_grid = [[0] * N for i in range(N)]
+    global grid, cpy_grid
+    grid = [[0] * N for i in range(N)]
+    cpy_grid = [[0] * N for i in range(N)]
 
 #This function reads a valid position and value inputs
 def read_input():

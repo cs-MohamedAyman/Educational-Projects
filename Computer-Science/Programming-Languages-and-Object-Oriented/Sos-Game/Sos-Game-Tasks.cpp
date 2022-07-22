@@ -31,21 +31,21 @@ void print_grid() {
     cout << "Player " << marks[1] << " is " << count_wins[1] << '\n';
     cout << "--";
     for (int i = 0; i < M-1; cout << "------", i++);
-	cout << "\n";
+    cout << "\n";
 }
 //This function checks if the game has a complete state or not
 bool check_complete() {
 
 }
-//This function checks if given cell is empty or not 
+//This function checks if given cell is empty or not
 bool check_empty(int i, int j) {
 
 }
-//This function checks if given char is valid or not 
+//This function checks if given char is valid or not
 bool check_mark(char c) {
 
 }
-//This function checks if given position is valid or not 
+//This function checks if given position is valid or not
 bool check_valid_position(int i, int j) {
 
 }
@@ -63,12 +63,12 @@ void grid_clear() {
 }
 //This function reads a valid position input
 void read_input(int &i, int &j, char &c) {
-	cout << "Enter the row index and column index and mark: ";
-	cin >> i >> j >> c;
+    cout << "Enter the row index and column index and mark: ";
+    cin >> i >> j >> c;
     while (!check_valid_position(i, j) || !check_empty(i, j) || !check_mark(c)) {
-		cout << "Enter a valid row index and column index and mark: ";
-		cin >> i >> j >> c;
-	}
+        cout << "Enter a valid row index and column index and mark: ";
+        cin >> i >> j >> c;
+    }
 }
 //MAIN FUNCTION
 void play_game() {
@@ -82,7 +82,7 @@ void play_game() {
         //Read an input position from the player
         cout << "Player " << marks[player] << " is playing now\n";
         int i, j; char c;
-		read_input(i, j, c);
+        read_input(i, j, c);
         //Set the player mark in the input position
         set_cell(i, j, c);
         //Update the number of complete words
@@ -92,30 +92,30 @@ void play_game() {
             //Prints the grid
             print_grid();
             //Announcement of the final statement
-			int max_count_boxes = *max_element(count_wins, count_wins+n_players);
+            int max_count_boxes = *max_element(count_wins, count_wins+n_players);
             if (count(count_wins, count_wins+n_players, max_count_boxes) == 1) {
-				int idx_max_player = find(count_wins, count_wins+n_players, max_count_boxes) - count_wins;
+                int idx_max_player = find(count_wins, count_wins+n_players, max_count_boxes) - count_wins;
                 cout << "Congrats, Player " << marks[idx_max_player] << " is won!\n";
-			}
+            }
             else
                 cout << "Woah! That's a tie!\n";
             break;
-		}
-		//Keep the player if there is a complete word
+        }
+        //Keep the player if there is a complete word
         if (!word_complete) {
             //Player number changes after each turn
             player = (player + 1) % n_players;
-		}
+        }
     }
 }
 int main() {
     while (true) {
-    	grid_clear();
-    	play_game();
-    	char c;
-    	cout << "Play Again [Y/N] ";
-    	cin >> c;
-    	if (c != 'y' && c != 'Y')
-    		break;
+        grid_clear();
+        play_game();
+        char c;
+        cout << "Play Again [Y/N] ";
+        cin >> c;
+        if (c != 'y' && c != 'Y')
+            break;
     }
 }
