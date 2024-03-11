@@ -84,7 +84,7 @@ Release 04 <br>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">
 <img width="60%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-4-player-games.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">Parallel 4 Player Games</Calculator</a></td>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">Parallel 4 Player Games</a></td>
 <td align="center">
 Release 01 <br>
 Release 02 <br>
@@ -104,7 +104,7 @@ Release 04 <br>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">
 <img width="60%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-searching-algorithms.png"></img></a><br>
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">Parallel Searching align="center">
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">Parallel Searching Algorithms</a></td>
 <td align="center">
 Release 01 <br>
 Release 02 <br>

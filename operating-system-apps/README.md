@@ -4,26 +4,15 @@
 
 <br><br>
 
-<table>
-    <tbody>
-        <tr>
+<td align="center" width="16.6%"><a href="/apps/memory-leak-detector/README.md">         Memory Leak Detector          </a></td>
+<td align="center" width="16.6%"><a href="/apps/containerization-system/README.md">      Containerization System       </a></td>
+<td align="center" width="16.6%"><a href="/apps/file-compression-library/README.md">     File Compression Library      </a></td>
 <td align="center" width="16.6%"><a href="/apps/simple-shell/README.md">                 Simple Shell                  </a></td>
 <td align="center" width="16.6%"><a href="/apps/file-system-simulator/README.md">        File System Simulator         </a></td>
 <td align="center" width="16.6%"><a href="/apps/memory-management-system/README.md">     Memory Management System      </a></td>
 <td align="center" width="16.6%"><a href="/apps/multithreading-library/README.md">       Multithreading Library        </a></td>
 <td align="center" width="16.6%"><a href="/apps/process-scheduling-simulator/README.md"> Process Scheduling Simulator  </a></td>
 <td align="center" width="16.6%"><a href="/apps/virtual-machine-manager/README.md">      Virtual Machine Manager     </a></td>
-        </tr>
-        <tr>
-<td align="center"><a href="/apps/simple-shell/README.md">                   <img src="/logos/simple-shell.png"                 width="90%"></img></a></td>
-<td align="center"><a href="/apps/file-system-simulator/README.md">          <img src="/logos/file-system-simulator.png"        width="90%"></img></a></td>
-<td align="center"><a href="/apps/memory-management-system/README.md">       <img src="/logos/memory-management-system.png"     width="90%"></img></a></td>
-<td align="center"><a href="/apps/multithreading-library/README.md">         <img src="/logos/multithreading-library.png"       width="90%"></img></a></td>
-<td align="center"><a href="/apps/process-scheduling-simulator/README.md">   <img src="/logos/process-scheduling-simulator.png" width="90%"></img></a></td>
-<td align="center"><a href="/apps/virtual-machine-manager/README.md">        <img src="/logos/virtual-machine-manager.png"      width="90%"></img></a></td>
-        </tr>
-    </tbody>
-</table>
 
 <table>
     <thead>
