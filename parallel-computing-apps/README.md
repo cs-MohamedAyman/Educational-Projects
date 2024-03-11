@@ -251,6 +251,7 @@ Release 04 <br>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">
 <img width="60%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-docs-processing.png"></img></a><br>
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">Parallel Docs Processing</a></td>
+<td align="center">
 Release 01 <br>
 Release 02 <br>
 Release 03 <br>
