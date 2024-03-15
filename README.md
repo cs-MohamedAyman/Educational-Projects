@@ -39,11 +39,6 @@ Educational Projects for computer science students.
 
 ## [`Object-Oriented Systems`](/object-oriented-systems/README.md)
 
-<a href="/database-systems-apps/README.md"><img align="right" width="80" src="/logos/database-systems-apps.png"></img></a>
-<br>
-
-## [`Database Systems Apps`](/database-systems-apps/README.md)
-
 <a href="/parallel-computing-apps/README.md"><img align="right" width="80" src="/logos/parallel-computing-apps.png"></img></a>
 <br>
 
@@ -63,3 +58,8 @@ Educational Projects for computer science students.
 <br>
 
 ## [`Data Compression Apps`](/data-compression-apps/README.md)
+
+<a href="/database-systems-apps/README.md"><img align="right" width="80" src="/logos/database-systems-apps.png"></img></a>
+<br>
+
+## [`Database Systems Apps`](/database-systems-apps/README.md)
