@@ -3,52 +3,83 @@
 # Educational Projects
 Educational Projects for computer science students.
 
+<table>
+    <tbody>
+<tr>
+<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>Are you looking for a 13-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
+</tr>
+    </tbody>
+</table>
+
 <br><br><br>
 
-<a href="/Computer-Science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.png"></img></a>
+<a href="/data-structure-libraries/README.md"><img align="right" width="80" src="/logos/data-structure-libraries.png"></img></a>
+<br>
 
-## [`Computer Science`](/Computer-Science/README.md) Projects
-Computer Science Projects for computer science students, which including the following main topics:
+## [`Data Structure Libraries`](/data-structure-libraries/README.md)
 
-#### - [Programming Languages](/Computer-Science/README.md#Programming-Languages-Projects) Projects
-#### - [Object Oriented](/Computer-Science/README.md#Object-Oriented-Projects) Projects
-#### - [Data Structures and Algorithms](/Computer-Science/README.md#Data-Structures-and-Algorithms-Projects) Projects
-#### - [Computer Graphics](/Computer-Science/README.md#Computer-Graphics-Projects) Projects
-#### - [Operating Systems](/Computer-Science/README.md#Operating-Systems-Projects) Projects
-#### - [Parallel Computing](/Computer-Science/README.md#Parallel-Computing-Projects) Projects
+<a href="/2-player-games/README.md"><img align="right" width="80" src="/logos/2-player-games.png"></img></a>
+<br>
 
-<a href="/Software-Engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.png"></img></a>
+## [`2 Player Games`](/2-player-games/README.md)
 
-## [`Software Engineering`](/Software-Engineering/README.md) Projects
-Software Engineering Projects for computer science students, which including the following main topics:
+<a href="/4-player-games/README.md"><img align="right" width="80" src="/logos/4-player-games.png"></img></a>
+<br>
 
-#### - [Fundamentals of Software Engineering](/Software-Engineering/README.md) Projects
-#### - [Continuous Delivery and DevOps](/Software-Engineering/README.md) Projects
-#### - [Database Systems and Warehousing](/Software-Engineering/README.md) Projects
-#### - [Web Development](/Software-Engineering/README.md) Projects
-#### - [Mobile Development](/Software-Engineering/README.md) Projects
-#### - [Game Development](/Software-Engineering/README.md) Projects
+## [`4 Player Games`](/4-player-games/README.md)
 
-<a href="/Artificial-Intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.png"></img></a>
+<a href="/1-player-games/README.md"><img align="right" width="80" src="/logos/1-player-games.png"></img></a>
+<br>
 
-## [`Artificial Intelligence`](/Artificial-Intelligence/README.md) Projects
-Artificial Intelligence Projects for computer science students, which including the following main topics:
+## [`1 Player Games`](/1-player-games/README.md)
 
-#### - [Artificial Intelligence Algorithms](/Artificial-Intelligence/README.md) Projects
-#### - [Machine Learning Algorithms](/Artificial-Intelligence/README.md) Projects
-#### - [Neural Networks and Deep Learning](/Artificial-Intelligence/README.md) Projects
-#### - [Signal Processing and Data Compression](/Artificial-Intelligence/README.md) Projects
-#### - [Image Processing and Computer Vision](/Artificial-Intelligence/README.md) Projects
-#### - [Natural Language Processing and Text Mining](/Artificial-Intelligence/README.md) Projects
+<a href="/object-oriented-systems/README.md"><img align="right" width="80" src="/logos/object-oriented-systems.png"></img></a>
+<br>
 
-<a href="/Data-Science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.png"></img></a>
+## [`Object-Oriented Systems`](/object-oriented-systems/README.md)
 
-## [`Data Science`](/Data-Science/README.md) Projects
-Data Science Projects for computer science students, which including the following main topics:
+<a href="/database-systems-apps/README.md"><img align="right" width="80" src="/logos/database-systems-apps.png"></img></a>
+<br>
 
-#### - [Data Science and Business Analytics](/Data-Science/README.md) Projects
-#### - [Data Analysis and Visualization](/Data-Science/README.md) Projects
-#### - [Business Intelligence and Data Management](/Data-Science/README.md) Projects
-#### - [Data Storage and Retrieval](/Data-Science/README.md) Projects
-#### - [Continuous Delivery and MLOps](/Data-Science/README.md) Projects
-#### - [Data Engineering](/Data-Science/README.md) Projects
+## [`Database Systems Apps`](/database-systems-apps/README.md)
+
+<a href="/operating-system-apps/README.md"><img align="right" width="80" src="/logos/operating-system-apps.png"></img></a>
+<br>
+
+## [`Operating System Apps`](/operating-system-apps/README.md)
+
+<a href="/parallel-computing-apps/README.md"><img align="right" width="80" src="/logos/parallel-computing-apps.png"></img></a>
+<br>
+
+## [`Parallel Computing Apps`](/parallel-computing-apps/README.md)
+
+<a href="/computer-graphics-apps/README.md"><img align="right" width="80" src="/logos/computer-graphics-apps.png"></img></a>
+<br>
+
+## [`Computer Graphics Apps`](/computer-graphics-apps/README.md)
+
+<a href="/data-compression-apps/README.md"><img align="right" width="80" src="/logos/data-compression-apps.png"></img></a>
+<br>
+
+## [`Data Compression Apps`](/data-compression-apps/README.md)
+
+<a href="/web-scraping-apps/README.md"><img align="right" width="80" src="/logos/web-scraping-apps.png"></img></a>
+<br>
+
+## [`Web Scraping Apps`](/web-scraping-apps/README.md)
+
+<a href="/data-analysis-reports/README.md"><img align="right" width="80" src="/logos/data-analysis-reports.png"></img></a>
+<br>
+
+## [`Data Analysis Reports`](/data-analysis-reports/README.md)
+
+<a href="/predicting-apps-regression/README.md"><img align="right" width="80" src="/logos/predicting-apps-regression.png"></img></a>
+<br>
+
+## [`Predicting Apps (Regression)`](/predicting-apps-regression/README.md)
+
+<a href="/predicting-apps-classification/README.md"><img align="right" width="80" src="/logos/predicting-apps-classification.png"></img></a>
+<br>
+
+## [`Predicting Apps (Classification)`](/predicting-apps-classification/README.md)
