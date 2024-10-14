@@ -281,7 +281,7 @@ Educational Projects for computer science students.
     <thead>
         <tr>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">Skip List Library</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">B/B+ Tree Library</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">B-Tree Library</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">R-Tree Library</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">K-ary Tree Library</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">Cuckoo Hash Table Library</a></th>
