@@ -33,13 +33,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/array-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/array-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/stack-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/stack-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/queue-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/queue-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/deque-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/deque-library.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -51,13 +51,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/linked-list-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/linked-list-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/stack-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/stack-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/queue-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/queue-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/deque-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/deque-library.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -69,13 +69,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-search-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-search-tree-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avl-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avl-tree-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/red-black-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/red-black-tree-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/splay-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/splay-tree-library.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -100,13 +100,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/tic-tac-toe-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sos-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sos-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/reversi-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/reversi-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/draughts-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/draughts-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -118,13 +118,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ultimate-tic-tac-toe-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ultimate-tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/battleship-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/battleship-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pig-dice-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pig-dice-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -136,13 +136,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-magic-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-magic-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-endgame-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-endgame-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/word-search-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/word-search-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -167,13 +167,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dots-and-boxes-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dots-and-boxes-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/connect-four-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/connect-four-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gomoku-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gomoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snakes-and-ladders-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snakes-and-ladders-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -185,13 +185,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hex-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hex-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/race-to-100-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/race-to-100-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bingo-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bingo-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ludo-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ludo-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -203,13 +203,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/farkle-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/farkle-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knock-out-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knock-out-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/left-center-right-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/left-center-right-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -234,13 +234,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-heap-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-heap-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binomial-heap-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binomial-heap-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fibonacci-heap-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fibonacci-heap-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pairing-heap-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pairing-heap-library.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -252,13 +252,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/trie-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/trie-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/disjoint-set-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/disjoint-set-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/segment-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/segment-tree-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-indexed-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/binary-indexed-tree-library.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -270,13 +270,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/skip-list-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/skip-list-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/b-tree-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/b-tree-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/suffix-array.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/suffix-array.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/suffix-tree.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/suffix-tree.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -301,13 +301,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mobile-contacts-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mobile-contacts-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/restaurant-orders-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/restaurant-orders-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/issue-tracking-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/issue-tracking-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ticketing-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ticketing-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -319,13 +319,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/equation-solver.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/equation-solver.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airport-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airport-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/company-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/company-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/school-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/school-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -337,13 +337,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/library-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/library-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bank-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bank-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/champions-league-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/champions-league-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/building-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/building-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -355,13 +355,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hospital-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hospital-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/university-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/university-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cinema-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cinema-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/e-commerce-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/e-commerce-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -373,13 +373,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cooking-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cooking-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/clinic-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/clinic-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hotel-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hotel-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/radio-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/radio-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -391,13 +391,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/railway-station-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/railway-station-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/theater-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/theater-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/grid-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/grid-games.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-games.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -422,13 +422,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mobile-contacts-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mobile-contacts-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/restaurant-orders-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/restaurant-orders-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/issue-tracking-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/issue-tracking-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ticketing-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ticketing-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -440,13 +440,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/equation-solver.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/equation-solver.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airport-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airport-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/company-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/company-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/school-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/school-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -458,13 +458,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/library-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/library-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bank-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bank-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/champions-league-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/champions-league-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/building-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/building-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -476,13 +476,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hospital-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hospital-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/university-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/university-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cinema-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cinema-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/e-commerce-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/e-commerce-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -494,13 +494,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cooking-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cooking-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/clinic-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/clinic-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hotel-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hotel-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/radio-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/radio-system.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -512,13 +512,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/railway-station-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/railway-station-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/theater-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/theater-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/grid-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/grid-games.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-games.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -543,13 +543,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/simple-shell.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/simple-shell.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-system-simulator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-system-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multithreading-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multithreading-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-compression-library.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-compression-library.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -561,13 +561,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/process-scheduler-simulator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/process-scheduler-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-management-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-management-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-leak-detector.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-leak-detector.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/system-monitoring-tool.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/system-monitoring-tool.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -579,13 +579,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/page-replacement-simulator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/page-replacement-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/network-stack-simulator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/network-stack-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/containerization-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/containerization-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/virtual-machine-manager.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/virtual-machine-manager.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -610,13 +610,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-stls.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-stls.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-1-player-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-1-player-games.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-2-player-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-2-player-games.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-4-player-games.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-4-player-games.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -628,13 +628,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-searching-algorithms.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-searching-algorithms.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-sorting-algorithms.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-sorting-algorithms.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-matrix-calculator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-matrix-calculator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-graph-algorithms.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-graph-algorithms.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -646,13 +646,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-genetic-algorithms.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-genetic-algorithms.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-directory-processing.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-directory-processing.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-painting-tool.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-painting-tool.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-docs-processing.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-docs-processing.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -677,13 +677,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -695,13 +695,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -713,13 +713,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -744,13 +744,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2048-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2048-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-wood-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-wood-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-block-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-block-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2248-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2248-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -762,13 +762,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pacman-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pacman-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/maze-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/maze-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knights-tour-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knights-tour-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-queens-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-queens-game.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -780,13 +780,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multi-sudoku-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multi-sudoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/slitherlink-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/slitherlink-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -811,13 +811,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bus-stop-simulation.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bus-stop-simulation.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/space-fighter-jet.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/space-fighter-jet.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/racing-bicycle.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/racing-bicycle.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/classic-fifa.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/classic-fifa.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -829,13 +829,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mini-radar.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mini-radar.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ping-pong.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ping-pong.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rocket-launching.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rocket-launching.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/brick-breaker.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/brick-breaker.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -847,13 +847,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/walking-robot.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/walking-robot.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/solar-system.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/solar-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/racing-car.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/racing-car.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airplane-simulator.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/airplane-simulator.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -878,13 +878,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/lz-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/lz-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/huffman-coding-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/huffman-coding-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rle-ac-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rle-ac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bwt-bzip2-deflate-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bwt-bzip2-deflate-algo.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -896,13 +896,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/jpeg-png-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/jpeg-png-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gif-tiff-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gif-tiff-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bmp-heic-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bmp-heic-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avif-webp-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avif-webp-algo.png"></img></a></td>
     </tbody>
     <thead>
         <tr>
@@ -914,13 +914,13 @@ Educational Projects for computer science students.
     </thead>
     <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/flac-alac-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/flac-alac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mp3-aac-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mp3-aac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/amr-opus-speex-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/amr-opus-speex-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gsm610-g711-g729-algo.png"></img></a></td>
+<img width="75%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gsm610-g711-g729-algo.png"></img></a></td>
     </tbody>
 </table>
 </details>
