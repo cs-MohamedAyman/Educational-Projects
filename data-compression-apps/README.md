@@ -29,7 +29,7 @@
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/lz-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/lz-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/lz-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/lz-algo/README.md">LZ Algorithms</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -79,25 +79,25 @@ Desktop App <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/huffman-coding-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/huffman-coding-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/huffman-coding-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/huffman-coding-algo/README.md">Huffman Coding Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/rle-ac-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rle-ac-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/rle-ac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/rle-ac-algo/README.md">RLE and AC Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/bwt-bzip2-deflate-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bwt-bzip2-deflate-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bwt-bzip2-deflate-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/bwt-bzip2-deflate-algo/README.md">BWT, BZIP2, DEFLATE Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/jpeg-png-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/jpeg-png-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/jpeg-png-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/jpeg-png-algo/README.md">JPEG and PNG Algorithms</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -147,25 +147,25 @@ Desktop App <br>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/gif-tiff-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gif-tiff-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gif-tiff-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/gif-tiff-algo/README.md">GIF and TIFF Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/bmp-heic-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bmp-heic-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bmp-heic-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/bmp-heic-algo/README.md">BMP and HEIC Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/avif-webp-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avif-webp-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/avif-webp-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/avif-webp-algo/README.md">AVIF and WebP Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">09</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/flac-alac-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/flac-alac-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/flac-alac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/flac-alac-algo/README.md">FLAC and ALAC Algorithms</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -215,19 +215,19 @@ Desktop App <br>
         <tr>
 <td align="center">10</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/mp3-aac-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mp3-aac-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/mp3-aac-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/mp3-aac-algo/README.md">MP3 and AAC Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">11</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/amr-opus-speex-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/amr-opus-speex-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/amr-opus-speex-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/amr-opus-speex-algo/README.md">AMR, Opus, Speex Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">12</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/gsm610-g711-g729-algo/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gsm610-g711-g729-algo.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gsm610-g711-g729-algo.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/gsm610-g711-g729-algo/README.md">GSM 6.10, G.711, G.729 Algorithms</a></td>
         </tr>
     </tbody>
