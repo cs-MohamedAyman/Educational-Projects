@@ -29,7 +29,7 @@
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/eight-puzzle-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/eight-puzzle-game/README.md">Eight Puzzle Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
@@ -79,43 +79,43 @@ Desktop App <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/sudoku-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/sudoku-game/README.md">Sudoku Game</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/match-cards-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/match-cards-game/README.md">Match Cards Game</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/minesweeper-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/minesweeper-game/README.md">Minesweeper Game</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/zuma-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/zuma-game/README.md">Zuma Game</a></td>
         </tr>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/snake-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/snake-game/README.md">Snake Game</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/cube-block-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/cube-block-game/README.md">Cube Block Game</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/ball-sort-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/ball-sort-game/README.md">Ball Sort Game</a></td>
         </tr>
     </tbody>
