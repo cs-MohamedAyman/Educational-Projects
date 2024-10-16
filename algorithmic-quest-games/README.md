@@ -1,57 +1,214 @@
-<a href="/1-player-games/eight-puzzle-game/README.md"><img align="right" width="160" src="/logos/eight-puzzle-game.png"></img></a>
+<a href="/algorithmic-quest-games/README.md"><img align="right" width="160" src="/logos/algorithmic-quest-games.png"></img></a>
 
-# Eight Puzzle Game
+# Algorithmic Quest Games
 
 <br><br>
 
-<br>
-<a href="https://youtube.com/watch?v=OXG04zPBsZ8"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/clipboard.png"></img></a>
-
-## [Project Description](https://youtube.com/watch?v=OXG04zPBsZ8)
-
-<p align="center"><a href="https://youtube.com/watch?v=OXG04zPBsZ8"><img src="https://img.youtube.com/vi/OXG04zPBsZ8/0.jpg" width="600" height="400"></a></p>
-
-<br>
-<a href="/1-player-games/eight-puzzle-game/console-app/DEMO.md"><img align="right" width="80" src="/logos/demo.png"></a>
-
-## [Console App Demo](/1-player-games/eight-puzzle-game/console-app/DEMO.md)
+## Prerequisite Knowledge: 
+### * [`C++, Python Programming Languages`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/cpp-python-programming-languages.md) 
+### * [`Java, C# Programming Languages`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/java-csharp-programming-languages.md)
+### * [`Data Structures and Algorithms`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/data-structures-and-algorithms.md)
+### * [`Artificial Intelligence Algorithms`](https://github.com/cs-MohamedAyman/Artificial-Intelligence-Trainings/blob/master/artificial-intelligence-algorithms.md)
 
 <br>
 
-## Console App Releases
+## Algorithmic Quest Games
 
+<table>
+    <thead>
+        <tr>
+<th width="30px">#</th>
+<th width="170px">Project Logo</th>
+<th width="150px">Project Name</th>
+<th width="450px">Project Releases <br> per Project</th>
+<th width="120px" colspan=2># Tasks <br> per Project</th>
+<th width="30px">Hrs <br> per Project</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td align="center">01</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2048-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">2048 Game</a></td>
+<td align="left" rowspan=8>
+Console App <br>
+1- Procedural Programming Implementation <br>
+2- Object-Oriented Programming Implementation <br>
+3- (Procedural/Object-Oriented) with Testing <br>
+4- Modular (Procedural/Object-Oriented) Implementation <br>
+5- User Input Handling and Feedback <br>
+6- Code Documentation and Commenting <br>
+7- Error Handling and Logging <br>
+8- Code Refactoring for Performance and Usability <br>
 <br>
-
-### `Release 01`
-<h4>- one file contains procedural programming implementation.</h4>
-
-<a href="/1-player-games/eight-puzzle-game/console-app/typescript/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/typescript.png" width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/javascript/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png" width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/csharp/README.md">    <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"     width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/java/README.md">      <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"       width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/go/README.md">        <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/golang.png"     width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/tasks-python.md">     <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"     width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/tasks-cplusplus.md">  <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"        width="5%" align="right"></img></a>
-<a href="/1-player-games/eight-puzzle-game/console-app/c/README.md">         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/c.png"          width="5%" align="right"></img></a>
-<h4>Solved Using</h4>
-
-### `Release 02`
-<h4>- one file contains object-oriented programming implementation.</h4>
-
-### `Release 03`
-<h4>- one file contains procedural programming implementation, and unit testing is provided.</h4>
-
-### `Release 04`
-<h4>- one file contains object-oriented programming implementation, and unit testing is provided.</h4>
-
-### `Release 05`
-<h4>- multiple files contain procedural programming implementation, and unit testing is provided.</h4>
-
-### `Release 06`
-<h4>- multiple files contain object-oriented programming implementation, and unit testing is provided.</h4>
-
-### `Release 07`
-<h4>- multiple files contain procedural programming implementation, a human player or AI player is provided.</h4>
-
-### `Release 08`
-<h4>- multiple files contain object-oriented programming implementation, a human player or AI player is provided.</h4>
+Desktop App <br>
+1- Initial GUI Implementation <br>
+2- Object-Oriented Transition <br>
+3- GUI with Unit Testing <br>
+4- Modular Implementation <br>
+5- User Input Handling and Feedback <br>
+6- Code Documentation and Commenting <br>
+7- Error Handling and Logging <br>
+8- Code Refactoring for Performance and Usability <br>
+</td>
+<td align="center" rowspan=8>
+<br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+<br>
+<br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+</td>
+<td align="center" rowspan=8>16</td>
+<td align="center" rowspan=8>20</td>
+        </tr>
+        <tr>
+<td align="center">02</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-wood-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">Merge Wood Game</a></td>
+        </tr>
+        <tr>
+<td align="center">03</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-block-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">Merge Block Game</a></td>
+        </tr>
+        <tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2248-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">2248 Game</a></td>
+        </tr>
+        <tr>
+<td align="center">05</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pacman-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">Pacman Game</a></td>
+        </tr>
+        <tr>
+<td align="center">06</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/maze-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">Maze Game</a></td>
+        </tr>
+        <tr>
+<td align="center">07</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knights-tour-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">Knights Tour Game</a></td>
+        </tr>
+        <tr>
+<td align="center">08</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-queens-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">Eight Queens Game</a></td>
+        </tr>
+        <tr>
+<td align="center">09</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multi-sudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">Multi Sudoku Game</a></td>
+<td align="left" rowspan=8>
+Console App <br>
+1- Procedural Programming Implementation <br>
+2- Object-Oriented Programming Implementation <br>
+3- (Procedural/Object-Oriented) with Testing <br>
+4- Modular (Procedural/Object-Oriented) Implementation <br>
+5- User Input Handling and Feedback <br>
+6- Code Documentation and Commenting <br>
+7- Error Handling and Logging <br>
+8- Code Refactoring for Performance and Usability <br>
+<br>
+Desktop App <br>
+1- Initial GUI Implementation <br>
+2- Object-Oriented Transition <br>
+3- GUI with Unit Testing <br>
+4- Modular Implementation <br>
+5- User Input Handling and Feedback <br>
+6- Code Documentation and Commenting <br>
+7- Error Handling and Logging <br>
+8- Code Refactoring for Performance and Usability <br>
+</td>
+<td align="center" rowspan=8>
+<br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+<br>
+<br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+2 <br>
+</td>
+<td align="center" rowspan=8>16</td>
+<td align="center" rowspan=8>20</td>
+        </tr>
+        <tr>
+<td align="center">10</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/slitherlink-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">Slitherlink Game</a></td>
+        </tr>
+        <tr>
+<td align="center">11</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">Make Ten Drop Game</a></td>
+        </tr>
+        <tr>
+<td align="center">12</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">Spots Connect Game</a></td>
+        </tr>
+        <tr>
+<td align="center">13</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">Blokus Game</a></td>
+        </tr>
+        <tr>
+<td align="center">14</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">Blockudoku Game</a></td>
+        </tr>
+        <tr>
+<td align="center">15</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">Fruit Master Game</a></td>
+        </tr>
+        <tr>
+<td align="center">16</td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">
+<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">Bubble Poke Game</a></td>
+        </tr>
+    </tbody>
+</table>
