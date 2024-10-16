@@ -28,7 +28,7 @@
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/dots-and-boxes-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dots-and-boxes-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dots-and-boxes-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/dots-and-boxes-game/README.md">Dots and Boxes Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
@@ -78,43 +78,43 @@ Desktop App <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/connect-four-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/connect-four-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/connect-four-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/connect-four-game/README.md">Connect Four Game</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/gomoku-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gomoku-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/gomoku-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/gomoku-game/README.md">Gomoku Game</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/snakes-and-ladders-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snakes-and-ladders-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snakes-and-ladders-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/snakes-and-ladders-game/README.md">Snakes and Ladders Game</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/hex-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hex-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hex-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/hex-game/README.md">Hex Game</a></td>
         </tr>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/yahtzee-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/yahtzee-game/README.md">Yahtzee Game</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/bingo-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bingo-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bingo-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/bingo-game/README.md">Bingo Game</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/ludo-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ludo-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ludo-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/ludo-game/README.md">Ludo Game</a></td>
         </tr>
     </tbody>
