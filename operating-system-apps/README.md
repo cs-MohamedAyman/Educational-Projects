@@ -29,7 +29,7 @@
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/simple-shell/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/simple-shell.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/simple-shell.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/simple-shell/README.md">Simple Shell</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -79,25 +79,25 @@ Desktop App <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/file-system-simulator/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-system-simulator.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-system-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/file-system-simulator/README.md">File System Simulator</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/multithreading-library/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multithreading-library.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multithreading-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/multithreading-library/README.md">Multithreading Library</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/file-compression-library/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-compression-library.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/file-compression-library.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/file-compression-library/README.md">File Compression Library</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/process-scheduler-simulator/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/process-scheduler-simulator.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/process-scheduler-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/process-scheduler-simulator/README.md">Process Scheduler Simulator</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -147,25 +147,25 @@ Desktop App <br>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/memory-management-system/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-management-system.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-management-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/memory-management-system/README.md">Memory Management System</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/memory-leak-detector/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-leak-detector.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/memory-leak-detector.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/memory-leak-detector/README.md">Memory Leak Detector</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/system-monitoring-tool/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/system-monitoring-tool.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/system-monitoring-tool.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/system-monitoring-tool/README.md">System Monitoring Tool</a></td>
         </tr>
         <tr>
 <td align="center">09</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/page-replacement-simulator/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/page-replacement-simulator.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/page-replacement-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/page-replacement-simulator/README.md">Page Replacement Simulator</a></td>
 <td align="left" rowspan=4>
 Console App <br>
@@ -215,19 +215,19 @@ Desktop App <br>
         <tr>
 <td align="center">10</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/network-stack-simulator/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/network-stack-simulator.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/network-stack-simulator.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/network-stack-simulator/README.md">Network Stack Simulator</a></td>
         </tr>
         <tr>
 <td align="center">11</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/containerization-system/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/containerization-system.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/containerization-system.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/containerization-system/README.md">Containerization System</a></td>
         </tr>
         <tr>
 <td align="center">12</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/virtual-machine-manager/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/virtual-machine-manager.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/virtual-machine-manager.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/virtual-machine-manager/README.md">Virtual Machine Manager</a></td>
         </tr>
     </tbody>
