@@ -30,7 +30,7 @@
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/tic-tac-toe-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/tic-tac-toe-game/README.md">Tic Tac Toe Game</a></td>
-<td align="left" rowspan=4>
+<td align="left" rowspan=8>
 Console App <br>
 1- Procedural Programming Implementation <br>
 2- Object-Oriented Programming Implementation <br>
@@ -51,7 +51,7 @@ Desktop App <br>
 7- Error Handling and Logging <br>
 8- Code Refactoring for Performance and Usability <br>
 </td>
-<td align="center" rowspan=4>
+<td align="center" rowspan=8>
 <br>
 2 <br>
 2 <br>
@@ -72,8 +72,8 @@ Desktop App <br>
 2 <br>
 2 <br>
 </td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
+<td align="center" rowspan=8>16</td>
+<td align="center" rowspan=8>20</td>
         </tr>
         <tr>
 <td align="center">02</td>
@@ -98,50 +98,6 @@ Desktop App <br>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/ultimate-tic-tac-toe-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ultimate-tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/ultimate-tic-tac-toe-game/README.md">Ultimate Tic Tac Toe Game</a></td>
-<td align="left" rowspan=4>
-Console App <br>
-1- Procedural Programming Implementation <br>
-2- Object-Oriented Programming Implementation <br>
-3- (Procedural/Object-Oriented) with Testing <br>
-4- Modular (Procedural/Object-Oriented) Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-<br>
-Desktop App <br>
-1- Initial GUI Implementation <br>
-2- Object-Oriented Transition <br>
-3- GUI with Unit Testing <br>
-4- Modular Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-</td>
-<td align="center" rowspan=4>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-<br>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-</td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
         </tr>
         <tr>
 <td align="center">06</td>
@@ -151,83 +107,15 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">07</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/pig-dice-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pig-dice-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/pig-dice-game/README.md">Pig Dice Game</a></td>
-        </tr>
-        <tr>
-<td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/alphago-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/alphago-game/README.md">Alphago Game</a></td>
         </tr>
         <tr>
-<td align="center">09</td>
+<td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-game/README.md">Chess Game</a></td>
-<td align="left" rowspan=4>
-Console App <br>
-1- Procedural Programming Implementation <br>
-2- Object-Oriented Programming Implementation <br>
-3- (Procedural/Object-Oriented) with Testing <br>
-4- Modular (Procedural/Object-Oriented) Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-<br>
-Desktop App <br>
-1- Initial GUI Implementation <br>
-2- Object-Oriented Transition <br>
-3- GUI with Unit Testing <br>
-4- Modular Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-</td>
-<td align="center" rowspan=4>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-<br>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-</td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
-        </tr>
-        <tr>
-<td align="center">10</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/dice-magic-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-magic-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/dice-magic-game/README.md">Dice Magic Game</a></td>
-        </tr>
-        <tr>
-<td align="center">11</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-endgame-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-endgame-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-endgame-game/README.md">Chess Endgame Game</a></td>
-        </tr>
-        <tr>
-<td align="center">12</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/word-search-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/word-search-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/word-search-game/README.md">Word Search Game</a></td>
         </tr>
     </tbody>
 </table>
