@@ -31,7 +31,7 @@
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/eight-puzzle-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/eight-puzzle-game/README.md">Eight Puzzle Game</a></td>
-<td align="left" rowspan=4>
+<td align="left" rowspan=8>
 Console App <br>
 1- Procedural Programming Implementation <br>
 2- Object-Oriented Programming Implementation <br>
@@ -52,7 +52,7 @@ Desktop App <br>
 7- Error Handling and Logging <br>
 8- Code Refactoring for Performance and Usability <br>
 </td>
-<td align="center" rowspan=4>
+<td align="center" rowspan=8>
 <br>
 2 <br>
 2 <br>
@@ -73,8 +73,8 @@ Desktop App <br>
 2 <br>
 2 <br>
 </td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
+<td align="center" rowspan=8>16</td>
+<td align="center" rowspan=8>20</td>
         </tr>
         <tr>
 <td align="center">02</td>
@@ -99,50 +99,6 @@ Desktop App <br>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/zuma-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/zuma-game/README.md">Zuma Game</a></td>
-<td align="left" rowspan=4>
-Console App <br>
-1- Procedural Programming Implementation <br>
-2- Object-Oriented Programming Implementation <br>
-3- (Procedural/Object-Oriented) with Testing <br>
-4- Modular (Procedural/Object-Oriented) Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-<br>
-Desktop App <br>
-1- Initial GUI Implementation <br>
-2- Object-Oriented Transition <br>
-3- GUI with Unit Testing <br>
-4- Modular Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-</td>
-<td align="center" rowspan=4>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-<br>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-</td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
         </tr>
         <tr>
 <td align="center">06</td>
@@ -161,74 +117,6 @@ Desktop App <br>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/ball-sort-game/README.md">
 <img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/ball-sort-game/README.md">Ball Sort Game</a></td>
-        </tr>
-        <tr>
-<td align="center">09</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/blokus-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/blokus-game/README.md">Blokus Game</a></td>
-<td align="left" rowspan=4>
-Console App <br>
-1- Procedural Programming Implementation <br>
-2- Object-Oriented Programming Implementation <br>
-3- (Procedural/Object-Oriented) with Testing <br>
-4- Modular (Procedural/Object-Oriented) Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-<br>
-Desktop App <br>
-1- Initial GUI Implementation <br>
-2- Object-Oriented Transition <br>
-3- GUI with Unit Testing <br>
-4- Modular Implementation <br>
-5- User Input Handling and Feedback <br>
-6- Code Documentation and Commenting <br>
-7- Error Handling and Logging <br>
-8- Code Refactoring for Performance and Usability <br>
-</td>
-<td align="center" rowspan=4>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-<br>
-<br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-2 <br>
-</td>
-<td align="center" rowspan=4>16</td>
-<td align="center" rowspan=4>20</td>
-        </tr>
-        <tr>
-<td align="center">10</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/blockudoku-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/blockudoku-game/README.md">Blockudoku Game</a></td>
-        </tr>
-        <tr>
-<td align="center">11</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/fruit-master-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/fruit-master-game/README.md">Fruit Master Game</a></td>
-        </tr>
-        <tr>
-<td align="center">12</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/bubble-poke-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/bubble-poke-game/README.md">Bubble Poke Game</a></td>
         </tr>
     </tbody>
 </table>
