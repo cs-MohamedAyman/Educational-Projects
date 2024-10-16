@@ -123,7 +123,7 @@ Educational Projects for computer science students.
 ## [`2 Player Games`](/2-player-games/README.md)
 
 <details>
-    <summary>(12 projects)</summary>
+    <summary>(8 projects)</summary>
     <br>
 <table>
     <thead>
@@ -134,8 +134,8 @@ Educational Projects for computer science students.
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Draughts Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Ultimate Tic Tac Toe Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Battleship Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Pig Dice Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Alphago Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Chess Game</a></th>
         </tr>
     </thead>
     <tbody>
@@ -152,27 +152,9 @@ Educational Projects for computer science students.
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/battleship-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pig-dice-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Chess Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Dice Magic Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Chess Endgame Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">Word Search Game</a></th>
-        </tr>
-    </thead>
-    <tbody>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/dice-magic-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-endgame-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/word-search-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
@@ -184,7 +166,7 @@ Educational Projects for computer science students.
 ## [`4 Player Games`](/4-player-games/README.md)
 
 <details>
-    <summary>(12 projects)</summary>
+    <summary>(8 projects)</summary>
     <br>
 <table>
     <thead>
@@ -194,7 +176,7 @@ Educational Projects for computer science students.
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Gomoku Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Snakes and Ladders Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Hex Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Race to 100 Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Yahtzee Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Bingo Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Ludo Game</a></th>
         </tr>
@@ -211,29 +193,11 @@ Educational Projects for computer science students.
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/hex-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/race-to-100-game.png"></img></a></td>
+<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bingo-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ludo-game.png"></img></a></td>
-    </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Yahtzee Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Farkle Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Knock Out Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">Left Center Right Game</a></th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/yahtzee-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/farkle-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knock-out-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/left-center-right-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
