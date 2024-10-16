@@ -676,7 +676,7 @@ Educational Projects for computer science students.
 ## [`1 Player Games`](/1-player-games/README.md)
 
 <details>
-    <summary>(12 projects)</summary>
+    <summary>(8 projects)</summary>
     <br>
 <table>
     <thead>
@@ -709,24 +709,6 @@ Educational Projects for computer science students.
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
     </tbody>
-    <thead>
-        <tr>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">Blokus Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">Blockudoku Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">Fruit Master Game</a></th>
-<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">Bubble Poke Game</a></th>
-        </tr>
-    </thead>
-    <tbody>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
-    </tbody>
 </table>
 </details>
 
@@ -737,7 +719,7 @@ Educational Projects for computer science students.
 ## [`Algorithmic Quest Games`](/algorithmic-quest-games/README.md)
 
 <details>
-    <summary>(12 projects)</summary>
+    <summary>(16 projects)</summary>
     <br>
 <table>
     <thead>
@@ -776,6 +758,10 @@ Educational Projects for computer science students.
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Slitherlink Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Make Ten Drop Game</a></th>
 <th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Spots Connect Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Blokus Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Blockudoku Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Fruit Master Game</a></th>
+<th width="120px" align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">Bubble Poke Game</a></th>
         </tr>
     </thead>
     <tbody>
@@ -787,6 +773,14 @@ Educational Projects for computer science students.
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
 <img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img width="100%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
     </tbody>
 </table>
 </details>
