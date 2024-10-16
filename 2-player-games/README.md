@@ -28,7 +28,7 @@
         <tr>
 <td align="center">01</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/tic-tac-toe-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/tic-tac-toe-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/tic-tac-toe-game/README.md">Tic Tac Toe Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
@@ -78,43 +78,43 @@ Desktop App <br>
         <tr>
 <td align="center">02</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/sos-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sos-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sos-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/sos-game/README.md">SOS Game</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/reversi-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/reversi-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/reversi-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/reversi-game/README.md">Reversi Game</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/draughts-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/draughts-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/draughts-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/draughts-game/README.md">Draughts Game</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/ultimate-tic-tac-toe-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ultimate-tic-tac-toe-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ultimate-tic-tac-toe-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/ultimate-tic-tac-toe-game/README.md">Ultimate Tic Tac Toe Game</a></td>
         </tr>
         <tr>
 <td align="center">06</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/battleship-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/battleship-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/battleship-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/battleship-game/README.md">Battleship Game</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/alphago-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/alphago-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/alphago-game/README.md">Alphago Game</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-game/README.md">
-<img width="80%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
+<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/chess-game.png"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/chess-game/README.md">Chess Game</a></td>
         </tr>
     </tbody>
